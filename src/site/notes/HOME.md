@@ -3,7 +3,7 @@
 ---
 
 
-# 🏠 Home Dashboard — LifeOS, Kreston & Zettelkasten
+# Marketing Consulting
 
 > [!INFO] **Bem-vindo ao Workspace / Welcome**
 > Este é o painel de navegação pública do seu ecossistema **LifeOS**, **Zettelkasten System**, **Empresa Kreston** e **Publicações**.
