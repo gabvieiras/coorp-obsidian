@@ -12,8 +12,8 @@
 
 ## 👥 Sócios & Frentes de Trabalho
 
-- 🎨 **[[1. Projects/kreston/kreston-muriel\|Frente Muriel: Branding, Fotos, Vídeos & Funil de Leads]]**
-- ⚡ **[[1. Projects/kreston/kreston-gabriel\|Frente Gabriel: Automação WhatsApp, Agendamentos & Relatórios]]**
+- 🎨 **[[1. Projects/kreston/kreston-muriel\|Muriel: Trabalhos / Execucoes / Atividades]]**
+- ⚡ **[[1. Projects/kreston/kreston-muriel\|Gabriel: Trabalhos / Execucoes / Atividades]]**
 
 ---
 

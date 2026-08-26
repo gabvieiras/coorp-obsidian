@@ -54,18 +54,18 @@
 
 ## 🔍 Consulta Rápida (Dataview)
 
-| Nota                                                                                                | Tipo       | Pasta                                           | Modificado      |
-| --------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------- | --------------- |
-| [[3. Resources/Zettelkasten/zettelkasten.README\|zettelkasten.README]]                           | Structure  | 3. Resources/Zettelkasten                       | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Templates/Structure Note Template\|Structure Note Template]]         | Structure  | 3. Resources/Zettelkasten/Templates             | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Templates/Permanent Note Template\|Permanent Note Template]]         | Permanent  | 3. Resources/Zettelkasten/Templates             | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Templates/Literature Note Template\|Literature Note Template]]       | Literature | 3. Resources/Zettelkasten/Templates             | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Literature Map/Literature Map\|Literature Map]]                      | Structure  | 3. Resources/Zettelkasten/Literature Map        | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Zettelkasten Ontology]] | Structure  | 3. Resources/Zettelkasten/Zettelkasten Ontology | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Views/Index - Zettelkasten\|Index - Zettelkasten]]                   | Structure  | 3. Resources/Zettelkasten/Views                 | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Views/Inspect View\|Inspect View]]                                   | Structure  | 3. Resources/Zettelkasten/Views                 | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Views/ARCO View\|ARCO View]]                                         | Structure  | 3. Resources/Zettelkasten/Views                 | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Guides/5_Structure Notes Guide\|5_Structure Notes Guide]]            | Structure  | 3. Resources/Zettelkasten/Guides                | August 26, 2026 |
+| Nota                                                                                                                                         | Tipo       | Pasta                                           | Modificado      |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------- | --------------- |
+| [[3. Resources/Zettelkasten/zettelkasten.README\|zettelkasten.README]]                                                                    | Structure  | 3. Resources/Zettelkasten                       | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Templates/Structure Note Template\|Structure Note Template]]                                                  | Structure  | 3. Resources/Zettelkasten/Templates             | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Templates/Permanent Note Template\|Permanent Note Template]]                                                  | Permanent  | 3. Resources/Zettelkasten/Templates             | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Templates/Literature Note Template\|Literature Note Template]]                                                | Literature | 3. Resources/Zettelkasten/Templates             | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Literature Map/Literature Map\|Literature Map]]                                                               | Structure  | 3. Resources/Zettelkasten/Literature Map        | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Zettelkasten Ontology]]                                          | Structure  | 3. Resources/Zettelkasten/Zettelkasten Ontology | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Livro - How to Take Smart Notes (Soenke Ahrens)]] | Literature | 3. Resources/Zettelkasten/Literature            | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Permanent/Atomicidade de Notas no Zettelkasten\|Atomicidade de Notas no Zettelkasten]]                        | Permanent  | 3. Resources/Zettelkasten/Permanent             | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Views/Index - Zettelkasten\|Index - Zettelkasten]]                                                            | Structure  | 3. Resources/Zettelkasten/Views                 | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Views/Inspect View\|Inspect View]]                                                                            | Structure  | 3. Resources/Zettelkasten/Views                 | August 26, 2026 |
 
 { .block-language-dataview}
 

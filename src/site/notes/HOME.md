@@ -3,16 +3,18 @@
 ---
 
 
-# 🏠 Home Dashboard — Marketing Consulting
+# 🏠 Home Dashboard — LifeOS, Kreston & Zettelkasten
 
 > [!INFO] **Bem-vindo ao Workspace / Welcome**
-> Este é o painel de navegação pública do seu ecossistema **LifeOS**, **Zettelkasten System** e **Projetos**.
+> Este é o painel de navegação pública do seu ecossistema **LifeOS**, **Zettelkasten System**, **Empresa Kreston** e **Publicações**.
 
 ---
 
 ## ⚡ Navegação Rápida (Quick Navigation)
 
-- 🚗 **[[1. Projects/kreston/kreston.README\|Empresa Kreston]]** — *Gestão Estratégica, Muriel & Gabriel*
+- 🚗 **[[1. Projects/kreston/kreston.README\|Empresa Kreston — Visão Geral]]** — *Gestão Estratégica, Muriel & Gabriel*
+- 📋 **[[1. Projects/kreston/kreston-kanban\|Kanban Kreston]]** — *Quadro de Tarefas Backlog, ToDo, Doing, Done*
+- 🏢 **[[2. Areas/Work/kreston-gestao-operacional\|Área de Gestão Operacional]]** — *Responsabilidade Contínua da Empresa*
 - 🧠 **[[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Zettelkasten Hub]]** — *Central MOC Zettelkasten*
 - 🗺️ **[[3. Resources/Zettelkasten/Literature Map/Literature Map\|Literature Map]]** — *Fluxo de Leituras & Notas Permanentes*
 - 🏗️ **[[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Zettelkasten Ontology]]** — *Taxonomia & 5 Camadas de Notas*
@@ -20,19 +22,29 @@
 
 ---
 
-## 👥 Projetos Kreston
+## 👥 Projetos & Planos de Ação Kreston
 
 - 🎨 **[[1. Projects/kreston/kreston-muriel\|Plano de Ação: Muriel (Branding, Mídia & Leads)]]**
 - 🤖 **[[1. Projects/kreston/kreston-gabriel\|Plano de Ação: Gabriel (WhatsApp, Bot 99Motors & BI)]]**
+- 📋 **[[1. Projects/kreston/kreston-kanban\|Quadro Kanban de Tarefas]]**
 
 ---
 
-## 📚 As 5 Camadas Zettelkasten
+## 📚 Conhecimento & Literatura (Zettelkasten Add-On)
 
-1. ⚡ **Fleeting Notes**: Captura rápida (`-1. Capture`)
-2. 📖 **Literature Notes**: Resumos & Citações (`3. Resources`)
-3. 🧠 **Permanent Notes**: Insights Atômicos (`3. Resources`)
-4. 🚀 **Project Notes**: Entregáveis & Publicações (`1. Projects` / `5. Express`)
-5. 🏗️ **Structure Notes**: MOCs & Dashboards (`3. Resources/Zettelkasten`)
+### 📖 Notas de Literatura (2_Literature)
+- [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Livro: How to Take Smart Notes (Sönke Ahrens)]]
+- [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Guia: Automação de Vendas & Lead Scoring 99Motors]]
+
+### 🧠 Notas Permanentes (3_Permanent)
+- [[3. Resources/Zettelkasten/Permanent/Atomicidade de Notas no Zettelkasten\|Atomicidade de Notas no Zettelkasten]]
+- [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Funil de Conversão Automática via WhatsApp]]
+- [[3. Resources/Zettelkasten/Permanent/Padronizacao Visual como Fator de Confianca na Venda de Veiculos\|Padronização Visual como Fator de Confiança]]
+
+---
+
+## 🚀 Publicações & Artigos (5. Express)
+
+- 📝 **[[5. Express/blogs/Como Estruturar um Funil de Vendas Automatizado para Loja de Veiculos\|Artigo: Como Estruturar um Funil de Vendas Automatizado para Veículos]]**
 
 ---

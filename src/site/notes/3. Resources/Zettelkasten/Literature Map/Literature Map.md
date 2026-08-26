@@ -62,9 +62,11 @@ graph TD
 
 ## 📊 Notas de Literatura Recentes
 
-| Nota de Literatura                                                                            | Autor/Fonte           | Criado em       |
-| --------------------------------------------------------------------------------------------- | --------------------- | --------------- |
-| [[3. Resources/Zettelkasten/Templates/Literature Note Template\|Literature Note Template]] | Nome do Autor / Fonte | August 26, 2026 |
+| Nota de Literatura                                                                                                                                           | Autor/Fonte           | Criado em       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | --------------- |
+| [[3. Resources/Zettelkasten/Templates/Literature Note Template\|Literature Note Template]]                                                                | Nome do Autor / Fonte | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Livro - How to Take Smart Notes (Soenke Ahrens)]]                 | Sönke Ahrens          | August 26, 2026 |
+| [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Guia - Automacao de Vendas e Lead Scoring para Veiculos]] | Equipe Kreston Tech   | August 26, 2026 |
 
 { .block-language-dataview}
 
