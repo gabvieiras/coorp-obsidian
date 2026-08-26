@@ -3,7 +3,7 @@
 ---
 
 
-# 🏠 Home Dashboard — LifeOS & Zettelkasten
+# 🏠 Home Dashboard — Marketing Consulting
 
 > [!INFO] **Bem-vindo ao Workspace / Welcome**
 > Este é o painel de navegação pública do seu ecossistema **LifeOS**, **Zettelkasten System** e **Projetos**.
