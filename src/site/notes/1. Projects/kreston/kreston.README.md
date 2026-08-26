@@ -6,14 +6,15 @@
 # 🚗 Empresa Kreston — Gestão Estratégica & Operacional
 
 > [!INFO] **Visão Geral**
-> Painel central do projeto **Kreston**, dividindo as frentes estratégicas entre os sócios **Muriel**  e **Gabriel**.
+> Painel central do projeto **Kreston**, dividindo as frentes estratégicas entre os sócios **Muriel** e **Gabriel**.
 
 ---
 
 ## 👥 Sócios & Frentes de Trabalho
 
-- 🎨 **[[1. Projects/kreston/kreston-muriel\|Muriel: Trabalhos / Execucoes / Atividades]]**
-- ⚡ **[[1. Projects/kreston/kreston-muriel\|Gabriel: Trabalhos / Execucoes / Atividades]]**
+- 🎨 **[[1. Projects/kreston/kreston-muriel\|Muriel: Trabalhos / Execuções / Atividades]]**
+- ⚡ **[[1. Projects/kreston/kreston-gabriel\|Gabriel: Trabalhos / Execuções / Atividades]]**
+- 📋 **[[1. Projects/kreston/kreston-kanban\|Quadro Kanban Interativo (Trello ao vivo)]]** — [🔗 Abrir diretamente no Trello](https://trello.com/b/Db9zGRvX/kreston-gest%C3%A3o-de-tarefas)
 
 ---
 
