@@ -30,13 +30,13 @@
 
 ---
 
-## 📚 Conhecimento & Literatura (Zettelkasten Add-On)
+## 📚 Conhecimento
 
-### 📖 Notas de Literatura (2_Literature)
+### 📖 Notas de Literatura 
 - [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Livro: How to Take Smart Notes (Sönke Ahrens)]]
 - [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Guia: Automação de Vendas & Lead Scoring 99Motors]]
 
-### 🧠 Notas Permanentes (3_Permanent)
+### 🧠 Notas Permanentes 
 - [[3. Resources/Zettelkasten/Permanent/Atomicidade de Notas no Zettelkasten\|Atomicidade de Notas no Zettelkasten]]
 - [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Funil de Conversão Automática via WhatsApp]]
 - [[3. Resources/Zettelkasten/Permanent/Padronizacao Visual como Fator de Confianca na Venda de Veiculos\|Padronização Visual como Fator de Confiança]]
