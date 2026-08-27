@@ -3,27 +3,15 @@
 ---
 
 
-<div style="background: linear-gradient(135deg, #1b1424 0%, #0d0f17 100%); padding: 24px; border-radius: 16px; border: 1px solid rgba(244,63,94,0.2); margin-bottom: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 16px;">
-    <div>
-      <span style="background: rgba(244, 63, 94, 0.15); color: #f43f5e; border: 1px solid rgba(244, 63, 94, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">🚀 Express Publication</span>
-      <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">🚗 Kreston Case Study</span>
-    </div>
-    <div style="font-size: 0.85rem; color: #a1a1aa;">
-      Autores: <strong style="color: #ffffff;">Gabriel &amp; Muriel</strong>
-    </div>
-  </div>
-  <h1 style="margin: 0 0 8px 0; font-size: 2.2rem; font-weight: 800; background: linear-gradient(90deg, #ffffff 0%, #fda4af 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Como Estruturar um Funil de Vendas Automatizado para Loja de Veículos
-  </h1>
-  <p style="margin: 0; color: #94a3b8; font-size: 1rem; line-height: 1.6;">
-    Artigo prático detalhando a combinação de branding visual, fotos padronizadas e automação de atendimento via WhatsApp API (99Motors).
-  </p>
-</div>
+# 🚀 Como Estruturar um Funil de Vendas Automatizado para Loja de Veículos
 
-<div style="background: rgba(15, 23, 42, 0.8); border: 1px solid rgba(255, 255, 255, 0.08); padding: 12px 18px; border-radius: 10px; margin-bottom: 24px; font-size: 0.9rem;">
-  📍 <strong>Navegação / Routing:</strong> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban Trello]]
-</div>
+> [!DANGER] **Express Publication — Gabriel & Muriel**
+> Artigo prático detalhando a combinação de branding visual, fotos padronizadas e automação de atendimento via WhatsApp API (99Motors).
+
+---
+
+> [!NOTE] 📍 **Navegação / Routing**
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban Trello]]
 
 ---
 

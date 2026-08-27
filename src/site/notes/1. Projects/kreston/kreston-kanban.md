@@ -3,27 +3,15 @@
 ---
 
 
-<div style="background: linear-gradient(135deg, #1b102b 0%, #0d0f17 100%); padding: 24px; border-radius: 16px; border: 1px solid rgba(168,85,247,0.2); margin-bottom: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 16px;">
-    <div>
-      <span style="background: rgba(168, 85, 247, 0.15); color: #a855f7; border: 1px solid rgba(168, 85, 247, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">📌 Trello Live Board</span>
-      <span style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">🟢 Sincronizado</span>
-    </div>
-    <div style="font-size: 0.85rem; color: #a1a1aa;">
-      Quadro: <strong style="color: #ffffff;">Kreston - Gestão de Tarefas</strong>
-    </div>
-  </div>
-  <h1 style="margin: 0 0 8px 0; font-size: 2.2rem; font-weight: 800; background: linear-gradient(90deg, #ffffff 0%, #e9d5ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Kanban Interativo Kreston (Trello Ao Vivo)
-  </h1>
-  <p style="margin: 0; color: #94a3b8; font-size: 1rem; line-height: 1.6;">
-    Quadro operacional em tempo real: Arraste cartões entre 📥 Backlog, 📝 A Fazer, ⏳ Em Andamento e ✅ Concluído.
-  </p>
-</div>
+# 📋 Kanban Interativo Kreston (Trello Ao Vivo)
 
-<div style="background: rgba(15, 23, 42, 0.8); border: 1px solid rgba(255, 255, 255, 0.08); padding: 12px 18px; border-radius: 10px; margin-bottom: 24px; font-size: 0.9rem;">
-  📍 <strong>Navegação / Routing:</strong> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [🔗 Abrir no App Trello](https://trello.com/b/Db9zGRvX/kreston-gest%C3%A3o-de-tarefas)
-</div>
+> [!ABSTRACT] **Quadro Operacional Trello Ao Vivo**
+> Quadro interativo em tempo real: Arraste cartões entre 📥 Backlog, 📝 A Fazer, ⏳ Em Andamento e ✅ Concluído.
+
+---
+
+> [!NOTE] 📍 **Navegação / Routing**
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [🔗 Abrir no App Trello](https://trello.com/b/Db9zGRvX/kreston-gest%C3%A3o-de-tarefas)
 
 ---
 
