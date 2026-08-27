@@ -3,15 +3,15 @@
 ---
 
 
-# 📋 Kanban Interativo Kreston (Trello Ao Vivo)
+# 📋 IBM Monday Work OS — Kanban Interativo Kreston
 
-> [!ABSTRACT] **Quadro Operacional Trello Ao Vivo**
-> Quadro interativo em tempo real: Arraste cartões entre 📥 Backlog, 📝 A Fazer, ⏳ Em Andamento e ✅ Concluído.
+> [!ABSTRACT] **QUADRO OPERACIONAL DE TAREFAS | AO VIVO**
+> 📌 **Quadro**: Kreston Gestão de Tarefas | 🟢 **Status**: Sincronizado | 👥 **Integrantes**: Gabriel & Muriel | ⚡ **Origem**: Trello Live
 
 ---
 
-> [!NOTE] 📍 **Navegação / Routing**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [🔗 Abrir no App Trello](https://trello.com/b/Db9zGRvX/kreston-gest%C3%A3o-de-tarefas)
+> [!NOTE] 🌐 **Navegação do Sistema (System Navigation)**
+> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [🔗 Abrir no App Trello](https://trello.com/b/Db9zGRvX/kreston-gest%C3%A3o-de-tarefas)
 
 ---
 
@@ -26,30 +26,42 @@
 
 ## 📥 Backup de Tarefas Registradas no Vault
 
-### 📥 Backlog
-- [ ] Treinamento de abordagem de vendas para equipe de atendimento Direct/WhatsApp `⏱️ 4h`
-- [ ] Criação do modelo de Copywriting AIDA para anúncios OLX/Webmotors `⏱️ 3h`
-- [ ] Produção de 3 Reels semanais com comparativos de seminovos `⏱️ 6h`
+### 📥 1. Backlog (Aguardando Fila)
+
+| Tarefa / Atividade | Esforço | Atribuído a | Status |
+| :--- | :---: | :---: | :---: |
+| Treinamento de abordagem de vendas Direct/WhatsApp | `⏱️ 4h` | 👥 Equipe | 🔴 Backlog |
+| Modelo de Copywriting AIDA para anúncios OLX | `⏱️ 3h` | 🎨 Muriel | 🔴 Backlog |
+| Produção de 3 Reels semanais com comparativos | `⏱️ 6h` | 🎨 Muriel | 🔴 Backlog |
 
 ---
 
-### 📝 ToDo (A Fazer)
-- [ ] Auditoria dos perfis atuais de redes sociais e definição de linha editorial `⏱️ 2h`
-- [ ] Definição do checklist de ângulos padrão de fotos de veículos `⏱️ 2h`
-- [ ] Mapeamento do fluxo de conversa do robô do WhatsApp `⏱️ 4h`
-- [ ] Configuração do sistema de agendamento automático de test-drive `⏱️ 3h`
+### 📝 2. ToDo (A Fazer - Próxima Sprint)
+
+| Tarefa / Atividade | Esforço | Atribuído a | Status |
+| :--- | :---: | :---: | :---: |
+| Auditoria dos perfis sociais e linha editorial | `⏱️ 2h` | 🎨 Muriel | 🟡 A Fazer |
+| Checklist de ângulos padrão de fotos de veículos | `⏱️ 2h` | 🎨 Muriel | 🟡 A Fazer |
+| Mapeamento do fluxo de conversa do robô WhatsApp | `⏱️ 4h` | ⚡ Gabriel | 🟡 A Fazer |
+| Configuração de agendamento automático test-drive | `⏱️ 3h` | ⚡ Gabriel | 🟡 A Fazer |
 
 ---
 
-### ⏳ Doing (Em Andamento - WIP Limit 3)
-- [/] Conexão da API do WhatsApp com o sistema 99Motors (Gabriel) `⏱️ 8h`
-- [/] Criação do Kit de Templates de marca no Canva/Figma (Muriel) `⏱️ 6h`
-- [/] Definição de KPIs e modelo do Dashboard no Looker Studio `⏱️ 3h`
+### ⏳ 3. Doing (Em Andamento - WIP Limit 3)
+
+| Tarefa / Atividade | Esforço | Atribuído a | Status |
+| :--- | :---: | :---: | :---: |
+| Conexão da API do WhatsApp com 99Motors | `⏱️ 8h` | ⚡ Gabriel | 🔵 Em Andamento |
+| Kit de Templates no Canva/Figma | `⏱️ 6h` | 🎨 Muriel | 🔵 Em Andamento |
+| Definição de KPIs e Dashboard no Looker Studio | `⏱️ 3h` | ⚡ Gabriel | 🔵 Em Andamento |
 
 ---
 
-### ✅ Done (Concluído)
-- [x] Criação da estrutura de pastas Kreston no Obsidian LifeOS 🎉
-- [x] Definição dos planos de ação individuais de Muriel e Gabriel 🎉
-- [x] Integração da ontologia Zettelkasten e Literature Map ao vault 🎉
-- [x] Criação e integração do quadro Trello ao vivo 🎉
+### ✅ 4. Done (Concluído)
+
+| Tarefa / Atividade | Esforço | Atribuído a | Status |
+| :--- | :---: | :---: | :---: |
+| Estrutura de pastas Kreston no Obsidian | `⏱️ Concluído` | 🤖 AI Assistant | 🟢 Concluído |
+| Planos de ação individuais de Muriel e Gabriel | `⏱️ Concluído` | 🤖 AI Assistant | 🟢 Concluído |
+| Ontologia Zettelkasten e Literature Map | `⏱️ Concluído` | 🤖 AI Assistant | 🟢 Concluído |
+| Quadro Trello ao vivo sincronizado | `⏱️ Concluído` | 👥 Equipe | 🟢 Concluído |

@@ -3,52 +3,55 @@
 ---
 
 
-# ⚡ Plano de Ação: Gabriel (Automações, Agendamentos & BI)
+# ⚡ IBM Monday Work OS — Gabriel Work Board (Automações & BI)
 
-> [!INFO] **Frente Tecnológica & BI — Gabriel**
-> Frente tecnológica responsável pelo bot do WhatsApp (99Motors), integração da API, agendamento automático de test-drive e relatórios mensais de ROI.
-
----
-
-> [!NOTE] 📍 **Navegação / Routing**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban Trello]]
+> [!INFO] **PAINEL DE TRABALHO GABRIEL | Q3 2026**
+> ⚡ **Frente**: Automação, Bot & Inteligência | 👤 **Responsável**: Gabriel | ⏱️ **Carga Estimada**: 42 Horas | 🎯 **Objetivo**: Bot 24/7 & ROI
 
 ---
 
-## 📌 Objetivos & Tarefas Detalhadas (Com tempo de esforço)
-
-### 1. 🤖 Automação do WhatsApp (99Motors)
-> **Objetivo Alvo**: Garantir atendimento instantâneo 24/7 com envio automático do catálogo do estoque.
-
-- [ ] Mapeamento do fluxo de conversa do robô (Boas-vindas, Menu, Filtro de Estoque) `⏱️ 4h`
-- [ ] Conexão da API do WhatsApp com o sistema da 99Motors `⏱️ 8h`
-- [ ] Configuração de resposta automática para envio de fotos e fichas técnicas por modelo `⏱️ 6h`
-- [ ] Configuração de transição inteligente do robô para atendente humano `⏱️ 4h`
-- [ ] Testes de carga e validação dos fluxos de mensagem `⏱️ 3h`
+> [!NOTE] 🌐 **Navegação do Sistema (System Navigation)**
+> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]]
 
 ---
 
-### 2. 📊 Relatório Mensal Automatizado
-> **Objetivo Alvo**: Ter clareza total sobre o ROI de mídia, volume de leads e taxa de fechamento.
+## 📌 Quadro de Tarefas IBM Monday (Gabriel Work Board)
 
-- [ ] Definição dos KPIs essenciais (Custo por Lead, Leads Qualificados, Vendas por Canal) `⏱️ 3h`
-- [ ] Construção do Dashboard no Looker Studio / Metabase conectado às fontes de dados `⏱️ 6h`
-- [ ] Automação de extração dos dados do Meta Ads e WhatsApp `⏱️ 4h`
-- [ ] Configuração de envio automático do PDF do relatório por e-mail no dia 1º de cada mês `⏱️ 2h`
+### 🤖 1. Automação do WhatsApp (99Motors)
 
----
-
-### 3. 📅 Agendamento Automático
-> **Objetivo Alvo**: Permitir que o cliente agende visitas e test-drives sem atrito ou espera.
-
-- [ ] Configuração da plataforma de agendamento (Cal.com / Calendly) integrada à agenda dos sócios `⏱️ 3h`
-- [ ] Inclusão do link de agendamento no bot do WhatsApp e na Bio do Instagram `⏱️ 2h`
-- [ ] Automação de disparo de lembrete via WhatsApp (24h e 2h antes do agendamento) `⏱️ 4h`
-- [ ] Configuração de confirmação/reagendamento automático em caso de imprevisto `⏱️ 3h`
+| Item / Tarefa | Status | Esforço | Prioridade |
+| :--- | :---: | :---: | :---: |
+| Mapeamento do fluxo de conversa do robô | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
+| Conexão da API do WhatsApp com 99Motors | 🔵 Em Andamento | `⏱️ 8h` | 🔥 Alta |
+| Resposta automática com envio de fotos/fichas | 🟡 A Fazer | `⏱️ 6h` | 🔥 Alta |
+| Transição inteligente para atendente humano | 🟡 A Fazer | `⏱️ 4h` | ⚡ Média |
+| Testes de carga e validação dos fluxos | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
 
 ---
 
-## 📊 Tarefas Registradas (LifeOS Query)
+### 📊 2. Relatório Mensal Automatizado & BI
+
+| Item / Tarefa | Status | Esforço | Prioridade |
+| :--- | :---: | :---: | :---: |
+| Definição dos KPIs essenciais (CPL, ROI, Vendas) | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
+| Dashboard no Looker Studio / Metabase | 🔵 Em Andamento | `⏱️ 6h` | 🔥 Alta |
+| Automação de extração dos dados Meta/WhatsApp | 🟡 A Fazer | `⏱️ 4h` | ⚡ Média |
+| Envio automático do relatório por e-mail | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
+
+---
+
+### 📅 3. Agendamento Automático de Test-Drive
+
+| Item / Tarefa | Status | Esforço | Prioridade |
+| :--- | :---: | :---: | :---: |
+| Plataforma de agendamento (Cal.com/Calendly) | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
+| Link de agendamento no bot e Bio Instagram | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
+| Disparo de lembrete WhatsApp (24h e 2h antes) | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
+| Confirmação / Reagendamento automático | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
+
+---
+
+## 📊 Lista de Tarefas (LifeOS Query)
 
 ```LifeOS
 TaskListByTag

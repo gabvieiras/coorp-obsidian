@@ -1,66 +1,78 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["home","dashboard","gardenEntry"],"dg-note-properties":{"tags":["home","dashboard","gardenEntry"],"aliases":["Home Dashboard","Central Command"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"permalink":"/home/","tags":["home","ibm-monday","kreston/workspace","gardenEntry"],"dg-note-properties":{"tags":["home","ibm-monday","kreston/workspace","gardenEntry"],"aliases":["Home OS","Executive Workspace"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 
-# 🏠 Kreston Central Command & Knowledge Engine
+# 🏢 Monday — Kreston Executive Workspace
 
-> [!INFO] **Painel Executivo Unificado**
-> Gestão de Projetos Kreston (Muriel & Gabriel), Banco de Conhecimento Zettelkasten e Publicações.
-
----
-
-> [!NOTE] 📍 **Navegação / Routing**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban Trello]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Hub Zettelkasten]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Gestão Operacional]]
+> [!ABSTRACT] **PAINEL DE CONTROLE EXECUTIVO | Q3 2026**
+> 🟢 **Status Geral**: Ativo & Sincronizado | 👥 **Sócios**: Gabriel & Muriel | 🎯 **Foco**: Vendas & Automações | 📊 **Progresso**: 35% Concluído
 
 ---
 
-## 🚀 Empresa Kreston (Projetos & Operações)
-
-> [!danger] 📊 **[[1. Projects/kreston/kreston.README\|🚗 Kreston Overview — Painel Geral]]**
-> Painel de controle geral da empresa com divisão de responsabilidades dos sócios.  
-> 👉 **[[1. Projects/kreston/kreston.README\|Acessar Visão Geral da Kreston →]]**
-
-> [!quote] 📸 **[[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel — Branding & Mídia]]**
-> Branding, Redes Sociais, Padrão Visual de Fotos, Walkarounds e Funil de Leads.  
-> 👉 **[[1. Projects/kreston/kreston-muriel\|Ver Tarefas e Execuções de Muriel →]]**
-
-> [!info] 🤖 **[[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel — Automações & BI]]**
-> Automação do WhatsApp (99Motors), Agendamentos e Relatório Gerencial de ROI.  
-> 👉 **[[1. Projects/kreston/kreston-gabriel\|Ver Tarefas e Execuções de Gabriel →]]**
-
-> [!abstract] 📌 **[[1. Projects/kreston/kreston-kanban\|📋 Kanban Trello Ao Vivo — Quadro Operacional]]**
-> Quadro interativo ao vivo sincronizado com a equipe em tempo real.  
-> 👉 **[[1. Projects/kreston/kreston-kanban\|Abrir Quadro Kanban Trello →]]**
+> [!NOTE] 🌐 **Navegação do Sistema (System Navigation)**
+> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Zettelkasten Engine]]
 
 ---
 
-## 🧠 Zettelkasten Knowledge Engine
+## 📊 Resumo de Entregáveis por Frente (Work OS Metrics)
 
-> [!abstract] **Arquitetura de Conhecimento em 5 Camadas**
-> - 🧠 **[[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Zettelkasten Central Hub]]** — *MOC Principal*
-> - 🗺️ **[[3. Resources/Zettelkasten/Literature Map/Literature Map\|Literature Map]]** — *Pipeline de Fontes e Destilação*
+| Frente de Trabalho | Responsável | Status Atual | Grupos | Esforço Total | Link Direto |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| **Branding & Mídia** | 🎨 Muriel | 🔵 Em Execução | 7 Grupos | `⏱️ 62h` | [[1. Projects/kreston/kreston-muriel\|Abrir Quadro Muriel →]] |
+| **Automações & BI** | ⚡ Gabriel | 🔵 Em Execução | 3 Grupos | `⏱️ 42h` | [[1. Projects/kreston/kreston-gabriel\|Abrir Quadro Gabriel →]] |
+| **Kanban ao Vivo** | 👥 Equipe | 🟢 Sincronizado | Ao Vivo | `⏱️ Contínuo` | [[1. Projects/kreston/kreston-kanban\|Abrir Trello Kanban →]] |
+| **Gestão Operacional** | 🏢 Kreston | 🟢 Ativo | Operações | `⏱️ Diário` | [[2. Areas/Work/kreston-gestao-operacional\|Ver Operações →]] |
+
+---
+
+## 🚗 Projetos Kreston (IBM Monday Board Style)
+
+> [!danger] 📊 **[[1. Projects/kreston/kreston.README\|1. Visão Geral da Empresa Kreston]]**
+> Planejamento estratégico completo da loja de veículos seminovos.  
+> 👉 **[[1. Projects/kreston/kreston.README\|Acessar Painel Executivo Kreston →]]**
+
+> [!quote] 🎨 **[[1. Projects/kreston/kreston-muriel\|2. Quadro de Trabalho: Muriel (Branding & Leads)]]**
+> Gestão de Instagram/Facebook, Padronização Visual de Fotos, Walkarounds e Funil de Vendas.  
+> 👉 **[[1. Projects/kreston/kreston-muriel\|Abrir Quadro de Trabalho da Muriel →]]**
+
+> [!info] ⚡ **[[1. Projects/kreston/kreston-gabriel\|3. Quadro de Trabalho: Gabriel (Automações & BI)]]**
+> Atendimento 24/7 via WhatsApp 99Motors, Agendamento Automático e Dashboard de ROI.  
+> 👉 **[[1. Projects/kreston/kreston-gabriel\|Abrir Quadro de Trabalho do Gabriel →]]**
+
+> [!abstract] 📋 **[[1. Projects/kreston/kreston-kanban\|4. Quadro Kanban Interativo (Trello ao vivo)]]**
+> Gestão de tarefas em tempo real com sincronização bi-direcional.  
+> 👉 **[[1. Projects/kreston/kreston-kanban\|Abrir Kanban Interativo →]]**
+
+---
+
+## 🧠 Zettelkasten Knowledge Engine (Bases & Fontes)
+
+> [!summary] **Engenharia de Conhecimento em 5 Camadas (IBM Carbon Style)**
+> - 🧠 **[[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Zettelkasten Central Hub]]** — *MOC Principal e Visão de Conexões*
+> - 🗺️ **[[3. Resources/Zettelkasten/Literature Map/Literature Map\|Literature Map]]** — *Pipeline de Destilação de Leituras*
 > - 🏗️ **[[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Zettelkasten Ontology]]** — *Taxonomia & 5 Camadas de Notas*
 > - 🧭 **[[3. Resources/Zettelkasten/Views/ARCO View\|ARCO View]]** — *Atlas, Reference, Calendar, Organizer*
 > - 📊 **[[3. Resources/Zettelkasten/Views/Inspect View\|Inspect View]]** — *Vault Health Check & Analytics*
 
 ---
 
-## 📚 Destaques de Conhecimento & Literatura
+## 📚 Fontes & Notas Permanentes Destiladas
 
-### 📖 Literatura Destilada (2_Literature)
-- 📗 [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Livro: How to Take Smart Notes (Sönke Ahrens)]]
-- 🛠️ [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Guia: Automação de Vendas & Lead Scoring 99Motors]]
-
-### 🧠 Notas Permanentes Atômicas (3_Permanent)
-- 💡 [[3. Resources/Zettelkasten/Permanent/Atomicidade de Notas no Zettelkasten\|Atomicidade de Notas no Zettelkasten]]
-- 💡 [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Funil de Conversão Automática via WhatsApp]]
-- 💡 [[3. Resources/Zettelkasten/Permanent/Padronizacao Visual como Fator de Confianca na Venda de Veiculos\|Padronização Visual como Fator de Confiança]]
+| Categoria | Nome da Nota | Tipo / Camada | Status | Link para Acesso |
+| :--- | :--- | :---: | :---: | :--- |
+| 📖 **Literatura** | How to Take Smart Notes | `2_Literature` | 🟢 Destilado | [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Ver Resumo Sönke Ahrens →]] |
+| 🛠️ **Ferramenta** | Guia Automação 99Motors | `2_Literature` | 🟢 Ativo | [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Ver Guia Automação →]] |
+| 🧠 **Permanente** | Atomicidade de Notas | `3_Permanent` | 🟢 Conciso | [[3. Resources/Zettelkasten/Permanent/Atomicidade de Notas no Zettelkasten\|Ver Nota Atômica →]] |
+| 🧠 **Permanente** | Funil WhatsApp Concessionária | `3_Permanent` | 🟢 Aplicado | [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Ver Nota Funil WhatsApp →]] |
+| 🧠 **Permanente** | Padronização Visual Veículos | `3_Permanent` | 🟢 Aplicado | [[3. Resources/Zettelkasten/Permanent/Padronizacao Visual como Fator de Confianca na Venda de Veiculos\|Ver Nota Padronização →]] |
 
 ---
 
 ## 🚀 Publicações & Artigos Prontos (5. Express)
 
-- 📝 **[[5. Express/blogs/Como Estruturar um Funil de Vendas Automatizado para Loja de Veiculos\|Artigo: Como Estruturar um Funil de Vendas Automatizado para Loja de Veículos]]**
+> [!danger] 📝 **[[5. Express/blogs/Como Estruturar um Funil de Vendas Automatizado para Loja de Veiculos\|Artigo Executivo: Como Estruturar um Funil de Vendas Automatizado para Veículos]]**
+> Case de estudo completo combinando branding visual e automação WhatsApp.  
+> 👉 **[[5. Express/blogs/Como Estruturar um Funil de Vendas Automatizado para Loja de Veiculos\|Ler Artigo Executivo Completo →]]**
 
 ---

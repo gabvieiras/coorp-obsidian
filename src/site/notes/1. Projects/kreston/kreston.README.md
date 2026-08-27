@@ -3,36 +3,30 @@
 ---
 
 
-# 🚗 Empresa Kreston — Gestão Estratégica & Operacional
+# 🚗 IBM Monday Work OS — Empresa Kreston Executive Overview
 
-> [!INFO] **Visão Geral Executiva**
-> Painel central executivo: Divisão de frentes operacionais entre Branding/Mídia (Muriel) e Automação/WhatsApp/BI (Gabriel).
-
----
-
-> [!NOTE] 📍 **Navegação / Routing**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban Trello]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Gestão Operacional]]
+> [!INFO] **PAINEL EXECUTIVO KRESTON MOTORS | Q3 2026**
+> 🚗 **Empresa**: Kreston Motors | 👥 **Sócios**: Gabriel & Muriel | 🎯 **Meta**: Automação & Padrão de Vendas | 📊 **Status**: Em Execução
 
 ---
 
-## 👥 Frentes de Trabalho dos Sócios
+> [!NOTE] 🌐 **Navegação do Sistema (System Navigation)**
+> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Gestão Operacional]]
 
-> [!quote] 🎨 **[[1. Projects/kreston/kreston-muriel\|Plano Muriel — Branding, Mídia & Leads]]**
-> Gestão de Instagram/Facebook, Padronização Visual, Fotos/Vídeos de Veículos, Copywriting e Funil de Leads.  
-> 👉 **[[1. Projects/kreston/kreston-muriel\|Abrir Atividades e Execuções de Muriel →]]**
+---
 
-> [!info] ⚡ **[[1. Projects/kreston/kreston-gabriel\|Plano Gabriel — Automações, Bot & BI]]**
-> Automação do WhatsApp (99Motors), Agendamento Automático de Test-Drive e Relatório Gerencial de ROI.  
-> 👉 **[[1. Projects/kreston/kreston-gabriel\|Abrir Atividades e Execuções de Gabriel →]]**
+## 👥 Resumo Executivo das Frentes de Trabalho
 
-> [!abstract] 📌 **[[1. Projects/kreston/kreston-kanban\|Kanban Interativo — Trello Ao Vivo]]**
-> Quadro interativo ao vivo sincronizado bi-direcionalmente em tempo real com a equipe.  
-> 👉 **[[1. Projects/kreston/kreston-kanban\|Abrir Quadro Trello Ao Vivo →]]**
+| Frente de Trabalho | Responsável | Status | Entregáveis Principais | Quadro de Trabalho |
+| :--- | :--- | :---: | :--- | :--- |
+| **Branding & Mídia** | 🎨 Muriel | 🔵 Em Andamento | Redes Sociais, Fotos, Walkarounds, Copies, Funil | [[1. Projects/kreston/kreston-muriel\|Abrir Quadro Muriel →]] |
+| **Automações & BI** | ⚡ Gabriel | 🔵 Em Andamento | Bot WhatsApp 99Motors, Relatórios ROI, Agendamento | [[1. Projects/kreston/kreston-gabriel\|Abrir Quadro Gabriel →]] |
+| **Kanban ao Vivo** | 👥 Equipe | 🟢 Sincronizado | Gestão de tarefas em tempo real (Trello) | [[1. Projects/kreston/kreston-kanban\|Abrir Trello Kanban →]] |
 
 ---
 
 ## 🎯 Meta Geral do Projeto
-Profissionalizar o acervo de veículos, construir uma marca de confiança nas redes sociais e automatizar a captura de leads via WhatsApp até o fechamento.
+Profissionalizar o acervo de veículos, construir uma marca de alta confiança nas redes sociais e automatizar a captura e qualificação de leads via WhatsApp até o fechamento.
 
 ---
 
