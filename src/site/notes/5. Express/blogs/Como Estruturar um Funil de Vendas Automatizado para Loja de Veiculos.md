@@ -3,15 +3,21 @@
 ---
 
 
-# 🚀 Artigo: Como Estruturar um Funil de Vendas Automatizado para Veículos
+# 🚀 Funil de Vendas Automatizado para Loja de Veículos
 
-> [!DANGER] **EXPRESS PUBLICATION | KRESTON CASE STUDY**
-> 🚀 **Tipo**: Artigo Executivo | 👥 **Autores**: Gabriel & Muriel | 🚗 **Empresa**: Kreston Motors
+> [!DANGER] 🚀 **EXPRESS PUBLICATION — CASE STUDY**
+> 
+> | Detalhe | Info |
+> | :--- | :--- |
+> | 📝 **Tipo** | Artigo Executivo |
+> | 👥 **Autores** | Gabriel & Muriel |
+> | 🚗 **Empresa** | Kreston Motors |
+> | 🎯 **Tema** | Branding + Automação = Conversão |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]]
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban]]
 
 ---
 
@@ -23,13 +29,13 @@ Neste artigo, apresentamos o modelo desenvolvido na **Kreston**, combinando a pa
 
 ---
 
-## Os 3 Pilares da Estratégia Kreston
+## Os 3 Pilares da Estratégia
 
-| Pilar | Responsável | Descrição | Nota Permanente |
-| :--- | :---: | :--- | :--- |
-| **Branding & Fotografia** | 🎨 Muriel | Checklist de fotos, cenário, walkarounds | [[3. Resources/Zettelkasten/Permanent/Padronizacao Visual como Fator de Confianca na Venda de Veiculos\|Ver Nota →]] |
-| **WhatsApp Instantâneo** | ⚡ Gabriel | API 99Motors, ficha técnica em 10s | [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Ver Nota →]] |
-| **Agendamento Sem Atrito** | 👥 Equipe | Cal.com + Lembretes automáticos 24h/2h | — |
+| # | Pilar | Responsável | Descrição | Nota |
+| :---: | :--- | :---: | :--- | :--- |
+| 1 | **Branding & Foto** | 🎨 Muriel | Checklist de fotos, cenário, walkarounds | [[3. Resources/Zettelkasten/Permanent/Padronizacao Visual como Fator de Confianca na Venda de Veiculos\|Ver →]] |
+| 2 | **WhatsApp Bot** | ⚡ Gabriel | API 99Motors, ficha técnica em 10s | [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Ver →]] |
+| 3 | **Agendamento** | 👥 Equipe | Cal.com + Lembretes 24h/2h | — |
 
 ---
 
@@ -37,5 +43,5 @@ Neste artigo, apresentamos o modelo desenvolvido na **Kreston**, combinando a pa
 
 A união entre estética profissional de marca e inteligência de processos automatizados transforma meros visitantes de redes sociais em compradores decididos.
 
-> [!TIP] **Quer ver o plano detalhado de execução?**
+> [!SUCCESS] ✅ **Quer ver o plano completo?**
 > 👉 **[[1. Projects/kreston/kreston.README\|Acessar o Painel Executivo Kreston →]]**

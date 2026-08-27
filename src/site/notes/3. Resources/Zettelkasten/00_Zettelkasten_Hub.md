@@ -3,32 +3,38 @@
 ---
 
 
-# 🧠 Zettelkasten Knowledge Engine — Central Hub
+# 🧠 Zettelkasten — Knowledge Engine Hub
 
-> [!WARNING] **CENTRAL MOC & ONTOLOGIA | ZETTELKASTEN v2.0**
-> 🧠 **Motor**: 5 Camadas Atômicas | 📚 **Fontes**: Literatura & Referências | 🔗 **Conexões**: Ontologia Formal | 📊 **Saúde**: Vault Ativo
+> [!WARNING] 🧠 **CENTRAL DE CONHECIMENTO | v2.0**
+> 
+> | Métrica | Valor |
+> | :--- | :--- |
+> | 🧠 **Motor** | 5 Camadas Atômicas |
+> | 📚 **Fontes** | Literatura & Referências |
+> | 🔗 **Conexões** | Ontologia Formal |
+> | 📊 **Status** | Vault Ativo |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home OS]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Hub]] • [[3. Resources/Zettelkasten/Literature Map/Literature Map\|🗺️ Literature Map]] • [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|🏗️ Ontologia]] • [[3. Resources/Zettelkasten/Views/ARCO View\|🧭 ARCO]] • [[3. Resources/Zettelkasten/Views/Inspect View\|📊 Inspect]]
+> [[HOME\|🏠 Home]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Hub]] • [[3. Resources/Zettelkasten/Literature Map/Literature Map\|🗺️ Lit Map]] • [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|🏗️ Ontologia]] • [[3. Resources/Zettelkasten/Views/ARCO View\|🧭 ARCO]] • [[3. Resources/Zettelkasten/Views/Inspect View\|📊 Inspect]]
 
 ---
 
-## 🗺️ Mapas & Frameworks Estruturais
+## 🗺️ Módulos do Knowledge Engine
 
-| Componente | Descrição | Tipo | Link |  
-| :--- | :--- | :---: | :--- |  
-| **Literature Map** | Pipeline de destilação de leituras em notas | 🗺️ Map | [[3. Resources/Zettelkasten/Literature Map/Literature Map\|Abrir Mapa →]] |  
-| **Zettelkasten Ontology** | Taxonomia formal das 5 camadas de notas | 🏗️ Ontology | [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Abrir Ontologia →]] |  
-| **ARCO View** | Atlas, Reference, Calendar, Organizer | 🧭 Framework | [[3. Resources/Zettelkasten/Views/ARCO View\|Abrir ARCO →]] |  
-| **Inspect View** | Vault Analytics e saúde dos links | 📊 Analytics | [[3. Resources/Zettelkasten/Views/Inspect View\|Abrir Analytics →]] |  
+| # | Componente | Tipo | Descrição | Acesso |
+| :---: | :--- | :---: | :--- | :--- |
+| 1 | **Literature Map** | 🗺️ Map | Pipeline de destilação de leituras em notas | [[3. Resources/Zettelkasten/Literature Map/Literature Map\|Abrir →]] |
+| 2 | **Zettelkasten Ontology** | 🏗️ Ontology | Taxonomia formal das 5 camadas | [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Abrir →]] |
+| 3 | **ARCO View** | 🧭 Framework | Atlas, Reference, Calendar, Organizer | [[3. Resources/Zettelkasten/Views/ARCO View\|Abrir →]] |
+| 4 | **Inspect View** | 📊 Analytics | Vault health e métricas de crescimento | [[3. Resources/Zettelkasten/Views/Inspect View\|Abrir →]] |
 
 ---
 
-## 📚 Notas Recentes no Zettelkasten (Dataview)
+## 📚 Notas Recentes (Dataview)
 
-| Nota Zettelkasten                                                                                                                                                           | Camada     | Data Criada     |
+| Nota Zettelkasten                                                                                                                                                           | Camada     | Criado          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- |
 | [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|00_Zettelkasten_Hub]]                                                                                                   | \-         | August 27, 2026 |
 | [[3. Resources/Zettelkasten/Guides/1_Fleeting Notes Guide\|1_Fleeting Notes Guide]]                                                                                      | Structure  | August 26, 2026 |
@@ -42,3 +48,11 @@
 | [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Guia - Automacao de Vendas e Lead Scoring para Veiculos]]                | Literature | August 26, 2026 |
 
 { .block-language-dataview}
+
+---
+
+> [!TIP] 💡 **Como usar o Zettelkasten**
+> 1. **Capture** — Anote insights brutos em Fleeting Notes
+> 2. **Destile** — Reescreva com suas palavras em Literature Notes
+> 3. **Sintetize** — Crie Permanent Notes com uma ideia por nota
+> 4. **Conecte** — Vincule aos projetos da Kreston para aplicação prática

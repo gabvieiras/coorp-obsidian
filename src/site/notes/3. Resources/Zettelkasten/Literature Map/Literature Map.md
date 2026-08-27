@@ -3,31 +3,44 @@
 ---
 
 
-# 🗺️ Literature Map — Pipeline de Destilação de Conhecimento
+# 🗺️ Literature Map — Pipeline de Destilação
 
-> [!ABSTRACT] **PIPELINE DE LITERATURA | FONTES → PERMANENTES**
-> 🗺️ **Fluxo**: Captura → Resumo → Destilação Atômica | 📖 **Fontes Registradas**: 2 | 🧠 **Notas Derivadas**: 3
+> [!ABSTRACT] 📚 **PIPELINE DE LITERATURA**
+> 
+> | Métrica | Valor |
+> | :--- | :--- |
+> | 🗺️ **Fluxo** | Captura → Resumo → Nota Permanente |
+> | 📖 **Fontes Registradas** | 2 |
+> | 🧠 **Notas Derivadas** | 3 |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home OS]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Hub]] • [[3. Resources/Zettelkasten/Literature Map/Literature Map\|🗺️ Literature Map]] • [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|🏗️ Ontologia]]
+> [[HOME\|🏠 Home]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Hub]] • [[3. Resources/Zettelkasten/Literature Map/Literature Map\|🗺️ Lit Map]] • [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|🏗️ Ontologia]]
 
 ---
 
 ## 📖 O Pipeline em 3 Etapas
 
-| Etapa | Descrição | Pasta no Vault | Status |
-| :--- | :--- | :---: | :---: |
-| **1. Captura** | Extração de citações e fatos da fonte original | `2_Literature` | 🟢 Ativo |
-| **2. Destilação** | Reescrita atômica com palavras próprias | `3_Permanent` | 🟢 Ativo |
-| **3. Aplicação** | Vinculação aos projetos Kreston ou artigos Express | `1_Projects` / `5_Express` | 🔵 Em Uso |
+| # | Etapa | Descrição | Pasta | Status |
+| :---: | :--- | :--- | :---: | :---: |
+| 1 | **Captura** | Citações e fatos extraídos da fonte | `2_Literature` | 🟢 Ativo |
+| 2 | **Destilação** | Reescrita atômica com palavras próprias | `3_Permanent` | 🟢 Ativo |
+| 3 | **Aplicação** | Vinculação aos projetos e artigos Express | `1_Projects` | 🔵 Em Uso |
 
 ---
 
-## 📚 Fontes de Literatura Registradas
+## 📚 Fontes Registradas
 
-| Fonte | Autor / Origem | Tipo | Notas Derivadas | Link |
+| Fonte | Autor | Tipo | Notas | Link |
 | :--- | :--- | :---: | :---: | :--- |
-| **How to Take Smart Notes** | Sönke Ahrens (2017) | 📖 Livro | 1 Permanente | [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Ver Resumo →]] |
-| **Guia Automação 99Motors** | Equipe Kreston | 🛠️ Ferramenta | 1 Permanente | [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Ver Guia →]] |
+| **How to Take Smart Notes** | Sönke Ahrens (2017) | 📖 Livro | 1 | [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Ver →]] |
+| **Guia Automação 99Motors** | Equipe Kreston | 🛠️ Tool | 1 | [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Ver →]] |
+
+---
+
+> [!EXAMPLE] 📝 **Como adicionar uma nova fonte**
+> 1. Crie uma nota em `3. Resources` com tag `#type/book` ou `#type/tool`
+> 2. Resuma os pontos principais em formato Literature Note
+> 3. Derive pelo menos 1 Permanent Note com uma ideia atômica
+> 4. Vincule a Permanent Note ao projeto relevante

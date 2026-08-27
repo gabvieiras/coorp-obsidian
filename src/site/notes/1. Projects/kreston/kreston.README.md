@@ -3,36 +3,60 @@
 ---
 
 
-# 🚗 Kreston Motors — Executive Overview Board
+# 🚗 Kreston Motors — Painel Executivo
 
-> [!INFO] **PAINEL EXECUTIVO KRESTON | Q3 2026**
-> 🚗 **Empresa**: Kreston Motors | 👥 **Sócios**: Gabriel & Muriel | 🎯 **Meta**: Automação & Padrão de Vendas | 📊 **Status**: Em Execução
+> [!ABSTRACT] 📊 **VISÃO GERAL DA EMPRESA**
+> 🚗 **Kreston Motors** — Compra e Venda de Seminovos
+> 
+> | Detalhe | Info |
+> | :--- | :--- |
+> | 👥 **Sócios** | Gabriel (Automação) & Muriel (Branding) |
+> | 🎯 **Meta Q3** | Bot 24/7 + Marca Premium nas Redes |
+> | 📊 **Progresso** | 35% concluído |
+> | ⏱️ **Carga** | 104h planejadas (62h Muriel + 42h Gabriel) |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Gestão Operacional]]
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Operações]]
 
 ---
 
-## 👥 Resumo Executivo das Frentes de Trabalho
+## 👥 Frentes de Trabalho
 
-| # | Frente | Responsável | Status | Entregáveis Principais | Board |
+| # | Frente | Responsável | Status | Entregáveis | Board |
 | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **Branding & Mídia** | 🎨 Muriel | 🔵 Em Andamento | Redes Sociais, Fotos, Walkarounds, Copies, Funil | [[1. Projects/kreston/kreston-muriel\|Abrir Board →]] |
-| 2 | **Automações & BI** | ⚡ Gabriel | 🔵 Em Andamento | Bot WhatsApp 99Motors, Relatórios ROI, Agendamento | [[1. Projects/kreston/kreston-gabriel\|Abrir Board →]] |
-| 3 | **Kanban Ao Vivo** | 👥 Equipe | 🟢 Sincronizado | Gestão de tarefas em tempo real (Trello) | [[1. Projects/kreston/kreston-kanban\|Abrir Kanban →]] |
+| 1 | **Branding & Mídia** | 🎨 Muriel | 🔵 Em Andamento | Redes, Fotos, Vídeos, Copies, Funil | [[1. Projects/kreston/kreston-muriel\|Abrir →]] |
+| 2 | **Automações & BI** | ⚡ Gabriel | 🔵 Em Andamento | Bot WhatsApp, ROI Reports, Agenda | [[1. Projects/kreston/kreston-gabriel\|Abrir →]] |
+| 3 | **Kanban Ao Vivo** | 👥 Equipe | 🟢 Sync | Gestão de tarefas em tempo real | [[1. Projects/kreston/kreston-kanban\|Abrir →]] |
 
 ---
 
-## 🎯 Meta Geral do Projeto
+## 🎯 Objetivo Estratégico
 
-> [!WARNING] **Objetivo Estratégico**
-> Profissionalizar o acervo de veículos, construir uma marca de alta confiança nas redes sociais e automatizar a captura e qualificação de leads via WhatsApp até o fechamento.
+> [!WARNING] 🎯 **Meta Geral do Projeto Kreston**
+> Profissionalizar o acervo de veículos, construir uma marca de alta confiança nas redes sociais e **automatizar 100% da captura e qualificação de leads** via WhatsApp até o fechamento de venda.
+> 
+> **Resultados esperados ao fim do Q3:**
+> - 🤖 Bot WhatsApp respondendo em < 5 segundos
+> - 📸 100% dos veículos com fotos padronizadas (12 ângulos)
+> - 📊 Dashboard de ROI atualizado automaticamente
+> - 📅 Agendamento de test-drive sem atrito
 
 ---
 
-## 📋 Lista de Tarefas do Projeto (LifeOS Query)
+## 📋 Atalhos Rápidos
+
+> [!TIP] 📂 **Acessos do Projeto**
+> 🎨 [[1. Projects/kreston/kreston-muriel\|Board da Muriel — Branding & Fotos →]]
+> ⚡ [[1. Projects/kreston/kreston-gabriel\|Board do Gabriel — Automação & BI →]]
+> 📋 [[1. Projects/kreston/kreston-kanban\|Kanban Trello ao Vivo →]]
+> 🏢 [[2. Areas/Work/kreston-gestao-operacional\|Gestão Operacional →]]
+> 🧠 [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Knowledge Engine →]]
+
+---
+
+## 📋 Tarefas do Projeto (LifeOS)
 
 ```LifeOS
 TaskListByTag
@@ -40,7 +64,7 @@ TaskListByTag
 
 ---
 
-## 📂 Arquivos do Projeto (LifeOS Query)
+## 📂 Arquivos do Projeto (LifeOS)
 
 ```LifeOS
 FileListByTag

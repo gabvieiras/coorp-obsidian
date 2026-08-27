@@ -3,21 +3,31 @@
 ---
 
 
-# ⚡ Gabriel Work Board — Automações, Bot & Inteligência
+# ⚡ Gabriel Work Board — Automação, Bot & BI
 
-> [!INFO] **PAINEL DE TRABALHO GABRIEL | Q3 2026**
-> ⚡ **Frente**: Automação, Bot & BI | 👤 **Responsável**: Gabriel | ⏱️ **Carga Total**: 42 Horas | 🎯 **Foco**: Bot 24/7 & ROI
+> [!INFO] 📊 **PAINEL DE TRABALHO — GABRIEL**
+> 
+> | Métrica | Valor |
+> | :--- | :--- |
+> | 👤 **Responsável** | Gabriel |
+> | ⚡ **Frente** | Automação, Bot & Inteligência |
+> | ⏱️ **Carga Total** | 42 Horas |
+> | 📋 **Grupos de Tarefa** | 3 Boards |
+> | 🎯 **Objetivo** | Bot 24/7 & Dashboard ROI |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]]
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban]]
 
 ---
 
-## 📌 Board de Tarefas — Gabriel Data Tables
+## 📌 Data Tables — Gabriel Work Boards
 
-### 🤖 1. Automação do WhatsApp (99Motors)
+### 🤖 1 · Automação do WhatsApp (99Motors)
+
+> [!TIP] 💡 **Contexto**
+> Integração com a API do 99Motors para resposta automática de leads via WhatsApp: envio de fotos, ficha técnica e agendamento — tudo em menos de 10 segundos.
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
@@ -29,18 +39,24 @@
 
 ---
 
-### 📊 2. Relatório Mensal Automatizado & BI
+### 📊 2 · Relatório Mensal Automatizado & BI
+
+> [!TIP] 💡 **Contexto**
+> Dashboard centralizado no Looker Studio conectado ao Meta Ads e WhatsApp para acompanhamento semanal de CPL, ROI e volume de leads.
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Definição dos KPIs essenciais (CPL, ROI, Vendas) | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
+| Definição dos KPIs (CPL, ROI, Vendas, Leads) | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
 | Dashboard no Looker Studio / Metabase | 🔵 Em Andamento | `⏱️ 6h` | 🔥 Alta |
-| Automação de extração dos dados Meta/WhatsApp | 🟡 A Fazer | `⏱️ 4h` | ⚡ Média |
+| Automação de extração dos dados Meta / WhatsApp | 🟡 A Fazer | `⏱️ 4h` | ⚡ Média |
 | Envio automático do relatório por e-mail | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
 
 ---
 
-### 📅 3. Agendamento Automático de Test-Drive
+### 📅 3 · Agendamento Automático de Test-Drive
+
+> [!TIP] 💡 **Contexto**
+> Plataforma de agendamento sem atrito integrada ao bot do WhatsApp, com lembretes automáticos de 24h e 2h antes do test-drive.
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
@@ -51,7 +67,14 @@
 
 ---
 
-## 📊 Lista de Tarefas (LifeOS Query)
+> [!SUCCESS] ✅ **Resumo de Progresso**
+> - 🔵 **Em Andamento**: 3 tarefas ativas (API WhatsApp, KPIs, Dashboard)
+> - 🟡 **A Fazer**: 9 tarefas na fila
+> - 🟢 **Concluídas**: 0 (sprint não iniciada)
+
+---
+
+## 📊 Tarefas (LifeOS)
 
 ```LifeOS
 TaskListByTag

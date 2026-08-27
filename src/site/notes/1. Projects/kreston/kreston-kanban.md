@@ -3,62 +3,70 @@
 ---
 
 
-# 📋 Monday Kanban — Quadro Trello Interativo (Ao Vivo)
+# 📋 Monday Kanban — Quadro Trello Interativo
 
-> [!ABSTRACT] **QUADRO OPERACIONAL DE TAREFAS | SINCRONIZADO**
-> 📌 **Board**: Kreston Gestão de Tarefas | 🟢 **Status**: Live | 👥 **Time**: Gabriel & Muriel | ⚡ **Motor**: Trello API
+> [!ABSTRACT] 📌 **QUADRO OPERACIONAL | AO VIVO**
+> 
+> | Detalhe | Info |
+> | :--- | :--- |
+> | 📋 **Board** | Kreston Gestão de Tarefas |
+> | 🟢 **Status** | Sincronizado em Tempo Real |
+> | 👥 **Equipe** | Gabriel & Muriel |
+> | ⚡ **Motor** | Trello Live Embed |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [🔗 Abrir no Trello (App)](https://trello.com/b/Db9zGRvX/kreston-gest%C3%A3o-de-tarefas)
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban]] • [🔗 Abrir no Trello](https://trello.com/b/Db9zGRvX/kreston-gest%C3%A3o-de-tarefas)
 
 ---
 
-## 📌 Quadro Trello Ao Vivo (Live Embed)
+## 📌 Quadro Trello — Live Embed
 
-<iframe src="https://trello.com/b/Db9zGRvX.html" width="100%" height="680px" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; background-color: #12131a; box-shadow: 0 10px 25px rgba(0,0,0,0.5);"></iframe>
+<iframe src="https://trello.com/b/Db9zGRvX.html" width="100%" height="700px" style="border: 1px solid rgba(255, 255, 255, 0.06); border-radius: 16px; background-color: #08090d; box-shadow: 0 8px 40px rgba(0,0,0,0.55);"></iframe>
 
 ---
 
-## 📋 Backup das Colunas do Kanban no Vault
+## 📋 Backup Offline das Colunas
 
-### 📥 1. Backlog (Aguardando Fila)
+### 📥 Backlog
 
 | Tarefa | Esforço | Responsável | Status |
 | :--- | :---: | :---: | :---: |
-| Treinamento de abordagem de vendas Direct/WhatsApp | `⏱️ 4h` | 👥 Equipe | 🔴 Backlog |
-| Modelo de Copywriting AIDA para anúncios OLX | `⏱️ 3h` | 🎨 Muriel | 🔴 Backlog |
-| Produção de 3 Reels semanais com comparativos | `⏱️ 6h` | 🎨 Muriel | 🔴 Backlog |
+| Treinamento de abordagem Direct / WhatsApp | `⏱️ 4h` | 👥 Equipe | 🔴 Backlog |
+| Modelo AIDA para anúncios OLX | `⏱️ 3h` | 🎨 Muriel | 🔴 Backlog |
+| 3 Reels semanais com comparativos | `⏱️ 6h` | 🎨 Muriel | 🔴 Backlog |
 
 ---
 
-### 📝 2. ToDo — Próxima Sprint
+### 📝 ToDo — Próxima Sprint
 
 | Tarefa | Esforço | Responsável | Status |
 | :--- | :---: | :---: | :---: |
-| Auditoria dos perfis sociais e linha editorial | `⏱️ 2h` | 🎨 Muriel | 🟡 A Fazer |
-| Checklist de ângulos padrão de fotos de veículos | `⏱️ 2h` | 🎨 Muriel | 🟡 A Fazer |
-| Mapeamento do fluxo de conversa do robô WhatsApp | `⏱️ 4h` | ⚡ Gabriel | 🟡 A Fazer |
-| Configuração de agendamento automático test-drive | `⏱️ 3h` | ⚡ Gabriel | 🟡 A Fazer |
+| Auditoria perfis sociais e linha editorial | `⏱️ 2h` | 🎨 Muriel | 🟡 A Fazer |
+| Checklist de ângulos padrão de fotos | `⏱️ 2h` | 🎨 Muriel | 🟡 A Fazer |
+| Fluxo de conversa do robô WhatsApp | `⏱️ 4h` | ⚡ Gabriel | 🟡 A Fazer |
+| Agendamento automático test-drive | `⏱️ 3h` | ⚡ Gabriel | 🟡 A Fazer |
 
 ---
 
-### ⏳ 3. Doing — Em Andamento (WIP Limit 3)
+### ⏳ Doing — Em Andamento
+
+> [!WARNING] ⚠️ **WIP Limit: 3 tarefas simultâneas**
 
 | Tarefa | Esforço | Responsável | Status |
 | :--- | :---: | :---: | :---: |
-| Conexão da API do WhatsApp com 99Motors | `⏱️ 8h` | ⚡ Gabriel | 🔵 Em Andamento |
-| Kit de Templates no Canva / Figma | `⏱️ 6h` | 🎨 Muriel | 🔵 Em Andamento |
-| Definição de KPIs e Dashboard no Looker Studio | `⏱️ 3h` | ⚡ Gabriel | 🔵 Em Andamento |
+| Conexão da API WhatsApp com 99Motors | `⏱️ 8h` | ⚡ Gabriel | 🔵 Em Andamento |
+| Kit de Templates Canva / Figma | `⏱️ 6h` | 🎨 Muriel | 🔵 Em Andamento |
+| KPIs e Dashboard Looker Studio | `⏱️ 3h` | ⚡ Gabriel | 🔵 Em Andamento |
 
 ---
 
-### ✅ 4. Done — Concluído
+### ✅ Done — Concluído
 
-| Tarefa | Esforço | Responsável | Status |
-| :--- | :---: | :---: | :---: |
-| Estrutura de pastas Kreston no Obsidian | `⏱️ Feito` | 🤖 AI | 🟢 Concluído |
-| Planos de ação individuais de Muriel e Gabriel | `⏱️ Feito` | 🤖 AI | 🟢 Concluído |
-| Ontologia Zettelkasten e Literature Map | `⏱️ Feito` | 🤖 AI | 🟢 Concluído |
-| Quadro Trello ao vivo sincronizado | `⏱️ Feito` | 👥 Equipe | 🟢 Concluído |
+| Tarefa | Responsável | Status |
+| :--- | :---: | :---: |
+| Estrutura de pastas Kreston no Obsidian | 🤖 AI | 🟢 Concluído |
+| Planos de ação Muriel e Gabriel | 🤖 AI | 🟢 Concluído |
+| Ontologia Zettelkasten e Literature Map | 🤖 AI | 🟢 Concluído |
+| Quadro Trello sincronizado ao vivo | 👥 Equipe | 🟢 Concluído |
