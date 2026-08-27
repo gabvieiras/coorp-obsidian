@@ -3,76 +3,85 @@
 ---
 
 
-# 🏢 Monday — Kreston Executive Workspace
+# 🏢 Kreston Work OS — Executive Command Center
 
 > [!ABSTRACT] **PAINEL DE CONTROLE EXECUTIVO | Q3 2026**
-> 🟢 **Status Geral**: Ativo & Sincronizado | 👥 **Sócios**: Gabriel & Muriel | 🎯 **Foco**: Vendas & Automações | 📊 **Progresso**: 35% Concluído
+> 🟢 **Sistema**: Ativo & Sincronizado | 👥 **Sócios**: Gabriel & Muriel | 🎯 **Meta**: Profissionalizar Vendas & Automatizar Atendimento | 📊 **Progresso Geral**: 35%
 
 ---
 
-> [!NOTE] 🌐 **Navegação do Sistema (System Navigation)**
-> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Zettelkasten Engine]]
+> [!NOTE] 🌐 **System Navigation**
+> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Knowledge Engine]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Gestão Operacional]]
 
 ---
 
-## 📊 Resumo de Entregáveis por Frente (Work OS Metrics)
+## 📊 Status Board — Resumo de Frentes de Trabalho
 
-| Frente de Trabalho | Responsável | Status Atual | Grupos | Esforço Total | Link Direto |
-| :--- | :--- | :---: | :---: | :---: | :--- |
-| **Branding & Mídia** | 🎨 Muriel | 🔵 Em Execução | 7 Grupos | `⏱️ 62h` | [[1. Projects/kreston/kreston-muriel\|Abrir Quadro Muriel →]] |
-| **Automações & BI** | ⚡ Gabriel | 🔵 Em Execução | 3 Grupos | `⏱️ 42h` | [[1. Projects/kreston/kreston-gabriel\|Abrir Quadro Gabriel →]] |
-| **Kanban ao Vivo** | 👥 Equipe | 🟢 Sincronizado | Ao Vivo | `⏱️ Contínuo` | [[1. Projects/kreston/kreston-kanban\|Abrir Trello Kanban →]] |
-| **Gestão Operacional** | 🏢 Kreston | 🟢 Ativo | Operações | `⏱️ Diário` | [[2. Areas/Work/kreston-gestao-operacional\|Ver Operações →]] |
+| # | Frente de Trabalho | Responsável | Status | Grupos | Esforço | Board |
+| :---: | :--- | :--- | :---: | :---: | :---: | :--- |
+| 1 | **Branding, Mídia & Leads** | 🎨 Muriel | 🔵 Em Execução | 7 Grupos | `⏱️ 62h` | [[1. Projects/kreston/kreston-muriel\|Abrir Board Muriel →]] |
+| 2 | **Automações, Bot & BI** | ⚡ Gabriel | 🔵 Em Execução | 3 Grupos | `⏱️ 42h` | [[1. Projects/kreston/kreston-gabriel\|Abrir Board Gabriel →]] |
+| 3 | **Kanban Trello (Ao Vivo)** | 👥 Equipe | 🟢 Sincronizado | Live | `⏱️ Contínuo` | [[1. Projects/kreston/kreston-kanban\|Abrir Trello Live →]] |
+| 4 | **Gestão Operacional** | 🏢 Kreston | 🟢 Ativo | Operações | `⏱️ Diário` | [[2. Areas/Work/kreston-gestao-operacional\|Ver Operações →]] |
 
 ---
 
-## 🚗 Projetos Kreston (IBM Monday Board Style)
+## 🚗 Projetos Kreston — Work Boards
 
-> [!danger] 📊 **[[1. Projects/kreston/kreston.README\|1. Visão Geral da Empresa Kreston]]**
-> Planejamento estratégico completo da loja de veículos seminovos.  
+> [!danger] 📊 **[[1. Projects/kreston/kreston.README\|1. Empresa Kreston — Painel Executivo Geral]]**
+> Visão consolidada da empresa com métricas, frentes de trabalho e meta geral.
 > 👉 **[[1. Projects/kreston/kreston.README\|Acessar Painel Executivo Kreston →]]**
 
-> [!quote] 🎨 **[[1. Projects/kreston/kreston-muriel\|2. Quadro de Trabalho: Muriel (Branding & Leads)]]**
-> Gestão de Instagram/Facebook, Padronização Visual de Fotos, Walkarounds e Funil de Vendas.  
-> 👉 **[[1. Projects/kreston/kreston-muriel\|Abrir Quadro de Trabalho da Muriel →]]**
+> [!quote] 🎨 **[[1. Projects/kreston/kreston-muriel\|2. Muriel Work Board — Branding, Fotos & Funil de Leads]]**
+> Instagram, Facebook, Padronização Visual, Walkarounds em Vídeo, Copywriting e Topo de Funil.
+> 👉 **[[1. Projects/kreston/kreston-muriel\|Abrir Board da Muriel →]]**
 
-> [!info] ⚡ **[[1. Projects/kreston/kreston-gabriel\|3. Quadro de Trabalho: Gabriel (Automações & BI)]]**
-> Atendimento 24/7 via WhatsApp 99Motors, Agendamento Automático e Dashboard de ROI.  
-> 👉 **[[1. Projects/kreston/kreston-gabriel\|Abrir Quadro de Trabalho do Gabriel →]]**
+> [!info] ⚡ **[[1. Projects/kreston/kreston-gabriel\|3. Gabriel Work Board — WhatsApp 99Motors, BI & Agendamentos]]**
+> Bot de atendimento 24/7, relatórios ROI automatizados e agendamento de test-drives.
+> 👉 **[[1. Projects/kreston/kreston-gabriel\|Abrir Board do Gabriel →]]**
 
-> [!abstract] 📋 **[[1. Projects/kreston/kreston-kanban\|4. Quadro Kanban Interativo (Trello ao vivo)]]**
-> Gestão de tarefas em tempo real com sincronização bi-direcional.  
+> [!abstract] 📋 **[[1. Projects/kreston/kreston-kanban\|4. Monday Kanban — Quadro Trello Interativo (Ao Vivo)]]**
+> Gestão operacional de tarefas com drag & drop em tempo real para toda a equipe.
 > 👉 **[[1. Projects/kreston/kreston-kanban\|Abrir Kanban Interativo →]]**
 
 ---
 
-## 🧠 Zettelkasten Knowledge Engine (Bases & Fontes)
+## 🧠 Knowledge Engine — Zettelkasten System
 
-> [!summary] **Engenharia de Conhecimento em 5 Camadas (IBM Carbon Style)**
-> - 🧠 **[[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Zettelkasten Central Hub]]** — *MOC Principal e Visão de Conexões*
-> - 🗺️ **[[3. Resources/Zettelkasten/Literature Map/Literature Map\|Literature Map]]** — *Pipeline de Destilação de Leituras*
-> - 🏗️ **[[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Zettelkasten Ontology]]** — *Taxonomia & 5 Camadas de Notas*
-> - 🧭 **[[3. Resources/Zettelkasten/Views/ARCO View\|ARCO View]]** — *Atlas, Reference, Calendar, Organizer*
-> - 📊 **[[3. Resources/Zettelkasten/Views/Inspect View\|Inspect View]]** — *Vault Health Check & Analytics*
+> [!warning] **BASE DE CONHECIMENTO | 5 CAMADAS ATÔMICAS**
+> O motor de conhecimento conecta leituras externas a insights permanentes aplicados nos projetos da Kreston.
+
+| # | Componente | Tipo | Descrição | Acesso |
+| :---: | :--- | :---: | :--- | :--- |
+| 1 | **Zettelkasten Hub** | 🧠 MOC | Central de Conexões e Ontologia | [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Abrir Hub →]] |
+| 2 | **Literature Map** | 🗺️ Map | Pipeline de Destilação de Fontes | [[3. Resources/Zettelkasten/Literature Map/Literature Map\|Abrir Mapa →]] |
+| 3 | **Ontologia** | 🏗️ Ontology | Regras Formais das 5 Camadas | [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Abrir Ontologia →]] |
+| 4 | **ARCO View** | 🧭 Framework | Atlas, Reference, Calendar, Organizer | [[3. Resources/Zettelkasten/Views/ARCO View\|Abrir ARCO →]] |
+| 5 | **Inspect View** | 📊 Analytics | Vault Health & Métricas de Crescimento | [[3. Resources/Zettelkasten/Views/Inspect View\|Abrir Analytics →]] |
 
 ---
 
-## 📚 Fontes & Notas Permanentes Destiladas
+## 📚 Destaques de Conhecimento & Publicações
 
-| Categoria | Nome da Nota | Tipo / Camada | Status | Link para Acesso |
+### 📖 Literatura Destilada
+
+| Fonte | Autor | Tipo | Notas Derivadas | Link |
 | :--- | :--- | :---: | :---: | :--- |
-| 📖 **Literatura** | How to Take Smart Notes | `2_Literature` | 🟢 Destilado | [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Ver Resumo Sönke Ahrens →]] |
-| 🛠️ **Ferramenta** | Guia Automação 99Motors | `2_Literature` | 🟢 Ativo | [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Ver Guia Automação →]] |
-| 🧠 **Permanente** | Atomicidade de Notas | `3_Permanent` | 🟢 Conciso | [[3. Resources/Zettelkasten/Permanent/Atomicidade de Notas no Zettelkasten\|Ver Nota Atômica →]] |
-| 🧠 **Permanente** | Funil WhatsApp Concessionária | `3_Permanent` | 🟢 Aplicado | [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Ver Nota Funil WhatsApp →]] |
-| 🧠 **Permanente** | Padronização Visual Veículos | `3_Permanent` | 🟢 Aplicado | [[3. Resources/Zettelkasten/Permanent/Padronizacao Visual como Fator de Confianca na Venda de Veiculos\|Ver Nota Padronização →]] |
+| **How to Take Smart Notes** | Sönke Ahrens | 📖 Livro | 1 Permanente | [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Ver Resumo →]] |
+| **Guia Automação 99Motors** | Equipe Kreston | 🛠️ Ferramenta | 1 Permanente | [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Ver Guia →]] |
 
----
+### 🧠 Notas Permanentes Atômicas
 
-## 🚀 Publicações & Artigos Prontos (5. Express)
+| Nota | Camada | Aplicação | Link |
+| :--- | :---: | :--- | :--- |
+| **Atomicidade de Notas** | `3_Permanent` | Princípio fundamental do Zettelkasten | [[3. Resources/Zettelkasten/Permanent/Atomicidade de Notas no Zettelkasten\|Ver Nota →]] |
+| **Funil WhatsApp Concessionária** | `3_Permanent` | Aplicado no Plano Gabriel (99Motors) | [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Ver Nota →]] |
+| **Padronização Visual Veículos** | `3_Permanent` | Aplicado no Plano Muriel (Fotos) | [[3. Resources/Zettelkasten/Permanent/Padronizacao Visual como Fator de Confianca na Venda de Veiculos\|Ver Nota →]] |
 
-> [!danger] 📝 **[[5. Express/blogs/Como Estruturar um Funil de Vendas Automatizado para Loja de Veiculos\|Artigo Executivo: Como Estruturar um Funil de Vendas Automatizado para Veículos]]**
-> Case de estudo completo combinando branding visual e automação WhatsApp.  
-> 👉 **[[5. Express/blogs/Como Estruturar um Funil de Vendas Automatizado para Loja de Veiculos\|Ler Artigo Executivo Completo →]]**
+### 🚀 Publicações Express
+
+> [!danger] 📝 **[[5. Express/blogs/Como Estruturar um Funil de Vendas Automatizado para Loja de Veiculos\|Artigo: Funil de Vendas Automatizado para Loja de Veículos]]**
+> Case de estudo executivo combinando branding visual (Muriel) e automação WhatsApp (Gabriel).
+> 👉 **[[5. Express/blogs/Como Estruturar um Funil de Vendas Automatizado para Loja de Veiculos\|Ler Artigo Completo →]]**
 
 ---

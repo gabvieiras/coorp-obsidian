@@ -3,19 +3,19 @@
 ---
 
 
-# ⚡ IBM Monday Work OS — Gabriel Work Board (Automações & BI)
+# ⚡ Gabriel Work Board — Automações, Bot & Inteligência
 
 > [!INFO] **PAINEL DE TRABALHO GABRIEL | Q3 2026**
-> ⚡ **Frente**: Automação, Bot & Inteligência | 👤 **Responsável**: Gabriel | ⏱️ **Carga Estimada**: 42 Horas | 🎯 **Objetivo**: Bot 24/7 & ROI
+> ⚡ **Frente**: Automação, Bot & BI | 👤 **Responsável**: Gabriel | ⏱️ **Carga Total**: 42 Horas | 🎯 **Foco**: Bot 24/7 & ROI
 
 ---
 
-> [!NOTE] 🌐 **Navegação do Sistema (System Navigation)**
+> [!NOTE] 🌐 **System Navigation**
 > [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]]
 
 ---
 
-## 📌 Quadro de Tarefas IBM Monday (Gabriel Work Board)
+## 📌 Board de Tarefas — Gabriel Data Tables
 
 ### 🤖 1. Automação do WhatsApp (99Motors)
 
@@ -44,7 +44,7 @@
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Plataforma de agendamento (Cal.com/Calendly) | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
+| Plataforma de agendamento (Cal.com / Calendly) | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
 | Link de agendamento no bot e Bio Instagram | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
 | Disparo de lembrete WhatsApp (24h e 2h antes) | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
 | Confirmação / Reagendamento automático | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |

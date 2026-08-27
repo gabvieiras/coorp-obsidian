@@ -3,92 +3,93 @@
 ---
 
 
-# 🎨 IBM Monday Work OS — Muriel Work Board (Branding & Leads)
+# 🎨 Muriel Work Board — Branding, Mídia & Funil de Leads
 
 > [!QUOTE] **PAINEL DE TRABALHO MURIEL | Q3 2026**
-> 🎨 **Frente**: Branding, Mídia & Redes | 👤 **Responsável**: Muriel | ⏱️ **Carga Estimada**: 62 Horas | 🎯 **Objetivo**: Padronização Visual & Funil
+> 🎨 **Frente**: Branding & Conversão | 👤 **Responsável**: Muriel | ⏱️ **Carga Total**: 62 Horas | 🎯 **Foco**: Marca Premium & Leads
 
 ---
 
-> [!NOTE] 🌐 **Navegação do Sistema (System Navigation)**
+> [!NOTE] 🌐 **System Navigation**
 > [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]]
 
 ---
 
-## 📌 Quadro de Tarefas IBM Monday (Muriel Work Board)
+## 📌 Board de Tarefas — Muriel Data Tables
 
-### 📱 1. Instagram + Facebook Management
+### 📸 1. Instagram & Facebook — Presença Digital
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Auditoria dos perfis atuais e linha editorial | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
-| Configuração de perfil empresarial & Meta Business | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
-| Criação do calendário editorial semanal | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
-| Configuração de integração Meta Business Suite | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
+| Definição de paleta de cores e identidade visual | 🔵 Em Andamento | `⏱️ 4h` | 🔥 Alta |
+| Criação de bio otimizada com CTA + link Linktree | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
+| Grid de feed com 9 posts inaugurais | 🟡 A Fazer | `⏱️ 6h` | 🔥 Alta |
+| Destaques fixos: Estoque, Depoimentos, Bastidores | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
+| Publicação de 3 posts semanais (mínimo) | 🟡 A Fazer | `⏱️ 4h/sem` | 🔥 Alta |
 
 ---
 
-### 🎨 2. Padronização Visual & Identidade de Marca
+### 📐 2. Padronização Visual de Fotos
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Definição da paleta de cores e guia de marca | 🔵 Em Andamento | `⏱️ 4h` | 🔥 Alta |
-| Criação do Kit de Templates no Canva/Figma | 🔵 Em Andamento | `⏱️ 6h` | 🔥 Alta |
-| Criação das capas dos Destaques do Instagram | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
-| Definição de marca d'água / logo nas fotos | 🔵 Em Andamento | `⏱️ 2h` | ⚡ Média |
+| Checklist de 12 ângulos obrigatórios por veículo | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
+| Setup de cenário: fundo limpo, piso escuro, LED | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
+| Preset de edição Lightroom/VSCO (2 versões) | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
+| Marca d'água e assinatura visual na foto | 🟡 A Fazer | `⏱️ 1h` | 📌 Normal |
 
 ---
 
-### 📸 3. Fotografia de Veículos & Cenário
+### 🎬 3. Walkarounds em Vídeo
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Definição do checklist de ângulos padrão | 🔵 Em Andamento | `⏱️ 2h` | 🔥 Alta |
-| Preparação do cenário / pátio para fotos | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
-| Sessão de fotos do estoque inicial de veículos | 🟡 A Fazer | `⏱️ 6h` | 🔥 Alta |
-| Edição, tratamento leve e Google Drive | 🟡 A Fazer | `⏱️ 4h` | ⚡ Média |
+| Roteiro de narração padrão (30s–60s) | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
+| Captura de 1 vídeo por veículo novo em estoque | 🟡 A Fazer | `⏱️ 1h/veíc` | ⚡ Média |
+| Trilha sonora livre e legenda automática | 🟡 A Fazer | `⏱️ 1h` | 📌 Normal |
+| Publicação cruzada: Reels + TikTok + YouTube Shorts | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
 
 ---
 
-### 🎥 4. Vídeos & Walkarounds
+### ✍️ 4. Copywriting & Anúncios
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Roteiro padrão de Walkaround de seminovos | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
-| Gravação dos primeiros 5 vídeos de destaques | 🟡 A Fazer | `⏱️ 5h` | 🔥 Alta |
-| Edição dinâmica com legendas e trilha | 🟡 A Fazer | `⏱️ 6h` | 🔥 Alta |
-| Publicação no Reels, TikTok e YouTube Shorts | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
+| Template AIDA para anúncios OLX / Webmotors | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
+| Template PAS para Stories e WhatsApp | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
+| Banco de Copies prontos (10 variações por tipo) | 🟡 A Fazer | `⏱️ 4h` | ⚡ Média |
 
 ---
 
-### ✍️ 5. Copywriting & Anúncios Persuasivos
+### 🔍 5. SEO & Marketplaces
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Modelo de Copywriting AIDA para anúncios | 🔴 Backlog | `⏱️ 3h` | ⚡ Média |
-| Catalogação dos dados técnicos do estoque | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
-| Redação dos anúncios OLX, Webmotors e Redes | 🟡 A Fazer | `⏱️ 5h` | 🔥 Alta |
+| Título SEO otimizado para OLX e Webmotors | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
+| Descrição estruturada com especificações técnicas | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
+| Teste A/B de títulos (2 variações por modelo) | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
 
 ---
 
-### 🎬 6. Reels & Stories Diários
+### 📢 6. Meta Ads & Tráfego Pago
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Planejamento do quadro diário de Stories | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
-| Produção de 3 Reels semanais com tendências | 🔴 Backlog | `⏱️ 6h` | 🔥 Alta |
-| Resposta e interação contínua em Directs | 🔵 Em Andamento | `⏱️ 1h/dia` | 🔥 Alta |
+| Estrutura de campanhas: Topo, Meio e Fundo | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
+| Criativo carrossel: 3 veículos destaque da semana | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
+| Público lookalike e retargeting de visitantes | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
+| Orçamento de teste: R$30/dia por 14 dias | 🟡 A Fazer | `⏱️ 1h` | 📌 Normal |
 
 ---
 
-### 🎯 7. Funil de Vendas & Qualificação de Leads
+### 🎯 7. Funil de Leads Automatizado
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Mapeamento do funil (Atração ➔ Fechamento) | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
-| Formulários de captura e botão de WhatsApp | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
-| Critérios de qualificação (Entrada/Troca) | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
-| Treinamento de abordagem inicial de leads | 🔴 Backlog | `⏱️ 4h` | 🔥 Alta |
+| Landing page com formulário (Typeform/Tally) | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
+| Automação: Lead → WhatsApp Bot → Agendamento | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
+| Lead scoring (quente / morno / frio) | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
+| CRM mínimo via planilha Google Sheets ou Notion | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
 
 ---
 

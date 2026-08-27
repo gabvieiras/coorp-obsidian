@@ -3,42 +3,47 @@
 ---
 
 
-# 🏢 Área: Gestão Operacional & Comercial Kreston
+# 🏢 Gestão Operacional — Kreston Motors
 
-> [!SUCCESS] **Padrão de Qualidade da Área**
-> Manter o estoque de veículos atualizado, o tempo de resposta no WhatsApp abaixo de 2 minutos, relatórios de ROI quinzenais e padrão fotográfico em 100% dos anúncios.
-
----
-
-> [!NOTE] 📍 **Navegação / Routing**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban Trello]]
+> [!DANGER] **ÁREA DE OPERAÇÕES | GESTÃO DIÁRIA**
+> 🏢 **Área**: Work / Operações | 🔄 **Frequência**: Diária | 📋 **Tipo**: Processos Recorrentes | 🟢 **Status**: Ativo
 
 ---
 
-## 📌 Esferas de Responsabilidade Contínua
-
-### 🎨 Marketing & Imagem (Muriel)
-- Padrão visual contínuo no Instagram, Facebook e Portais (OLX, Webmotors).
-- Renovação semanal do catálogo de veículos destaques.
-- Controle de qualidade de fotos e walkarounds antes da publicação.
-
-### ⚡ Vendas & Automação (Gabriel)
-- Manutenção da infraestrutura da API do WhatsApp com 99Motors.
-- Acompanhamento de métricas de conversão e custo por lead (CPL).
-- Geração automática de relatórios gerenciais e acompanhamento de agendamentos.
+> [!NOTE] 🌐 **System Navigation**
+> [[HOME\|🏠 Home OS]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Gestão Operacional]]
 
 ---
 
-## 📋 Lista de Tarefas da Área (LifeOS Query)
+## 📋 Processos Operacionais Recorrentes
 
-```LifeOS
-TaskListByTag
-```
+| Processo | Frequência | Responsável | Status |
+| :--- | :---: | :---: | :---: |
+| Checkin de veículos recebidos (FIPE + fotos) | 📅 Diário | 👥 Equipe | 🟢 Ativo |
+| Publicação de anúncios OLX/Webmotors | 📅 Diário | 🎨 Muriel | 🟢 Ativo |
+| Resposta de leads WhatsApp (< 5min) | 📅 Diário | ⚡ Gabriel (Bot) | 🔵 Implementando |
+| Relatório de desempenho semanal | 📅 Semanal | ⚡ Gabriel | 🟡 A Configurar |
+| Revisão de estoque e precificação | 📅 Semanal | 👥 Equipe | 🟢 Ativo |
+| Análise de ROI de tráfego pago | 📅 Mensal | ⚡ Gabriel | 🟡 A Configurar |
 
 ---
 
-## 📂 Arquivos Vinculados (LifeOS Query)
+## 📊 KPIs Operacionais (Em Definição)
 
-```LifeOS
-FileListByTag
-```
+| KPI | Meta | Status |
+| :--- | :---: | :---: |
+| Tempo de resposta WhatsApp | < 5 minutos | 🔵 Implementando |
+| Veículos publicados por semana | ≥ 5 | 🟡 Baseline |
+| CPL (Custo por Lead) | < R$15 | 🟡 A Medir |
+| ROI Semanal de Tráfego | > 3x | 🟡 A Medir |
+| Taxa de Agendamento Test-Drive | > 20% | 🟡 A Medir |
+
+---
+
+## 📎 Documentos Relacionados
+
+> [!QUOTE] 📂 **Acessos Rápidos**
+> 📊 [[1. Projects/kreston/kreston.README\|Painel Executivo Kreston →]]
+> 🎨 [[1. Projects/kreston/kreston-muriel\|Board Muriel →]]
+> ⚡ [[1. Projects/kreston/kreston-gabriel\|Board Gabriel →]]
+> 📋 [[1. Projects/kreston/kreston-kanban\|Kanban Trello Ao Vivo →]]
