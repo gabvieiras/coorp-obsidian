@@ -1,74 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/literature-map/literature-map/","tags":["type/structure","structure/map","theme/zettelkasten","target/zettelkasten"],"dg-note-properties":{"tags":["type/structure","structure/map","theme/zettelkasten","target/zettelkasten"],"aliases":["Literature Map","Mapa de Literatura"],"created":"2026-08-26","modified":"2026-08-26","banner":"![[3. Resources/Zettelkasten/Visuals/Zettelkasten_LitMap_2024-08-04.png]]","lead":"O Literature Map mapeia o ciclo de vida da informação: das fontes brutas às notas permanentes e projetos finalizados.","template_type":"Structure"}}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/literature-map/literature-map/","tags":["type/structure","structure/map","theme/zettelkasten","target/zettelkasten"],"dg-note-properties":{"tags":["type/structure","structure/map","theme/zettelkasten","target/zettelkasten"],"aliases":["Literature Map","Mapa de Literatura"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 
-# 🗺️ Literature Map (Mapa de Literatura)
+<div style="background: linear-gradient(135deg, #181124 0%, #0d0f17 100%); padding: 24px; border-radius: 16px; border: 1px solid rgba(168,85,247,0.2); margin-bottom: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 16px;">
+    <div>
+      <span style="background: rgba(168, 85, 247, 0.15); color: #a855f7; border: 1px solid rgba(168, 85, 247, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">🗺️ Structural Map</span>
+      <span style="background: rgba(99, 102, 241, 0.15); color: #818cf8; border: 1px solid rgba(99, 102, 241, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">⚡ Zettelkasten</span>
+    </div>
+    <div style="font-size: 0.85rem; color: #a1a1aa;">
+      Pipeline: <strong style="color: #ffffff;">Fontes ➔ Notas Permanentes</strong>
+    </div>
+  </div>
+  <h1 style="margin: 0 0 8px 0; font-size: 2.2rem; font-weight: 800; background: linear-gradient(90deg, #ffffff 0%, #e9d5ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Literature Map — Fluxo de Leituras & Conhecimento
+  </h1>
+  <p style="margin: 0; color: #94a3b8; font-size: 1rem; line-height: 1.6;">
+    Mapa estrutural de destilação: Como transformar livros, artigos e pesquisas em insights atômicos conectados.
+  </p>
+</div>
 
-[[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Hub Zettelkasten]] | [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Ontologia]] | [[3. Resources/Zettelkasten/Views/ARCO View\|ARCO]] | [[3. Resources/Zettelkasten/Views/Inspect View\|Inspect]]
-
-> [!ABSTRACT] **Conceito / Concept**
-> O **Literature Map** ilustra como fontes externas (Livros, Artigos, Podcasts, Vídeos, Documentos) são lidas, processadas em **Notas de Literatura (2_Literature)**, destiladas em **Notas Permanentes (3_Permanent)** com ideias próprias, organizadas via **Notas de Estrutura (5_Structure)** e finalmente aplicadas em **Projetos e Publicações (4_Project / 5. Express)**.
-
----
-
-## 📸 Diagrama do Literature Map
-
-![Zettelkasten_LitMap_2024-08-04.png](/img/user/3.%20Resources/Zettelkasten/Visuals/Zettelkasten_LitMap_2024-08-04.png)
-
-*Documento em formato PDF disponível em: `<iframe src="/img/user/3.%20Resources/Zettelkasten/Assets/Zettelkasten_LitMap_2024-08-04.pdf" width="100%" height="900px" title="Zettelkasten_LitMap_2024-08-04.pdf" style="border:1px solid #ccc;"></iframe>`*
-
----
-
-## ⚙️ O Fluxo passo a passo (Step-by-step Workflow)
-
-```mermaid
-graph TD
-    A[Fontes Externas: Livros, Artigos, Vídeos] -->|Captura rápida| B[1_Fleeting Notes / -1. Capture]
-    B -->|Resumo e Citação no contexto da fonte| C[2_Literature Notes / 3. Resources]
-    C -->|Atomição e Ideias com suas próprias palavras| D[3_Permanent Notes / Insights]
-    D -->|Organização e Conexões MOC| E[5_Structure Notes / Index]
-    E -->|Produção de artigos, e-books, entregáveis| F[4_Project Notes / 1. Projects / 5. Express]
-```
-
-### 1. Fontes (Sources)
-- Fontes primárias: Livros (`#type/book`), Artigos, Vídeos, Podcasts, Manuscritos.
-- Sempre manter a propriedade `based_on:: [[Link Da Fonte]]` nas notas derivadas.
-
-### 2. Notas de Literatura (2_Literature Notes)
-- Escrever resumos, citações (`#type/quote`), termos (`#type/term`) e pessoas (`#type/person`).
-- Regra de Ouro: Escrever no **contexto da fonte** mantendo a fidelidade ao autor.
-
-### 3. Notas Permanentes (3_Permanent Notes)
-- Escrever ideias com **suas próprias palavras** (`#type/note`), perguntas (`#type/question`), prompts (`#type/prompt`).
-- Regra de Ouro: **Uma ideia por nota** (Atomicidade) com raciocínio independente da fonte original.
-
-### 4. Notas de Estrutura (5_Structure Notes)
-- Mapas de Conteúdo (MOCs), Índices, Glosários e Visualizações ARCO.
-- Conectam notas permanentes entre si criando uma rede de pensamento hipertextual.
-
-### 5. Notas de Projeto / Saída (4_Project Notes)
-- Rascunhos de artigos, posts do blog (`5. Express`), documentação de projetos (`1. Projects`).
+<div style="background: rgba(15, 23, 42, 0.8); border: 1px solid rgba(255, 255, 255, 0.08); padding: 12px 18px; border-radius: 10px; margin-bottom: 24px; font-size: 0.9rem;">
+  📍 <strong>Navegação / Routing:</strong> [[HOME\|🏠 Home]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Hub Zettelkasten]] • [[3. Resources/Zettelkasten/Literature Map/Literature Map\|🗺️ Literature Map]] • [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|🏗️ Ontologia]]
+</div>
 
 ---
 
-## 🎨 Canvas Interativo
+## 📖 O Pipeline de Literatura
 
-```json
-![[Literature Map.canvas]]
-```
-
----
-
-## 📊 Notas de Literatura Recentes
-
-| Nota de Literatura                                                                                                                                           | Autor/Fonte           | Criado em       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | --------------- |
-| [[3. Resources/Zettelkasten/Templates/Literature Note Template\|Literature Note Template]]                                                                | Nome do Autor / Fonte | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Livro - How to Take Smart Notes (Soenke Ahrens)]]                 | Sönke Ahrens          | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Guia - Automacao de Vendas e Lead Scoring para Veiculos]] | Equipe Kreston Tech   | August 26, 2026 |
-
-{ .block-language-dataview}
+1. **Captura Fatos/Citações** (`2_Literature`)
+   - Extração do contexto original com citações diretas.
+2. **Destilação Atômica** (`3_Permanent`)
+   - Reescrita da ideia principal com suas próprias palavras em formato de nota atômica.
+3. **Aplicação em Projetos** (`1_Projects` / `5_Express`)
+   - Vinculação da nota permanente às estratégias da Kreston ou artigos do Blog.
 
 ---
-*Retornar ao [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Hub Zettelkasten]]*
+
+## 📚 Fontes de Literatura Registradas
+
+- 📗 [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Livro: How to Take Smart Notes (Sönke Ahrens)]]
+- 🛠️ [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Guia: Automação de Vendas & Lead Scoring 99Motors]]

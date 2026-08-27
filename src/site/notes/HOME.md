@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["home","dashboard","gardenEntry"],"dg-note-properties":{"tags":["home","dashboard","gardenEntry"],"aliases":["Home Dashboard","Central Command"],"created":"2026-08-26","modified":"2026-08-26"}}
+{"dg-publish":true,"permalink":"/home/","tags":["home","dashboard","gardenEntry"],"dg-note-properties":{"tags":["home","dashboard","gardenEntry"],"aliases":["Home Dashboard","Central Command"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 
@@ -10,7 +10,7 @@
       <span style="background: rgba(99, 102, 241, 0.15); color: #818cf8; border: 1px solid rgba(99, 102, 241, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">⚡ LifeOS Pro</span>
       <span style="background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">🧠 Zettelkasten v2</span>
     </div>
-    <div style="font-size: 0.8rem5; color: #a1a1aa;">
+    <div style="font-size: 0.85rem; color: #a1a1aa;">
       Empresa: <strong style="color: #ffffff;">Kreston Motors</strong>
     </div>
   </div>
@@ -20,6 +20,10 @@
   <p style="margin: 0; color: #94a3b8; font-size: 1rem; line-height: 1.6;">
     Painel executivo unificado: Gestão de Projetos Kreston (Muriel & Gabriel), Banco de Conhecimento Zettelkasten e Publicações.
   </p>
+</div>
+
+<div style="background: rgba(15, 23, 42, 0.8); border: 1px solid rgba(255, 255, 255, 0.08); padding: 12px 18px; border-radius: 10px; margin-bottom: 24px; font-size: 0.9rem;">
+  📍 <strong>Navegação / Routing:</strong> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban Trello]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Hub Zettelkasten]]
 </div>
 
 ---

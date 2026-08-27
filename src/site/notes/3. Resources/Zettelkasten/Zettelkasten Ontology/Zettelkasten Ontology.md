@@ -1,102 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/zettelkasten-ontology/zettelkasten-ontology/","tags":["type/structure","structure/ontology","theme/zettelkasten","target/zettelkasten"],"dg-note-properties":{"tags":["type/structure","structure/ontology","theme/zettelkasten","target/zettelkasten"],"aliases":["Zettelkasten Ontology","Ontologia Zettelkasten"],"created":"2026-08-26","modified":"2026-08-26","banner":"![[3. Resources/Zettelkasten/Visuals/Zettelkasten_Ontology.png]]","lead":"A Ontologia Zettelkasten define as 5 camadas de notas, propriedades de frontmatter, taxonomia de tags e regras de hiperlinks.","template_type":"Structure"}}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/zettelkasten-ontology/zettelkasten-ontology/","tags":["type/structure","structure/ontology","theme/zettelkasten","target/zettelkasten"],"dg-note-properties":{"tags":["type/structure","structure/ontology","theme/zettelkasten","target/zettelkasten"],"aliases":["Zettelkasten Ontology","Ontologia Zettelkasten"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 
-# 🏗️ Zettelkasten Ontology (Ontologia & Taxonomia)
+<div style="background: linear-gradient(135deg, #111b2b 0%, #0d0f17 100%); padding: 24px; border-radius: 16px; border: 1px solid rgba(59,130,246,0.2); margin-bottom: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 16px;">
+    <div>
+      <span style="background: rgba(59, 130, 246, 0.15); color: #3b82f6; border: 1px solid rgba(59, 130, 246, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">🏗️ Taxonomia & Regras</span>
+      <span style="background: rgba(99, 102, 241, 0.15); color: #818cf8; border: 1px solid rgba(99, 102, 241, 0.3); padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase;">⚡ Zettelkasten</span>
+    </div>
+    <div style="font-size: 0.85rem; color: #a1a1aa;">
+      Versão: <strong style="color: #ffffff;">2.0 Groepl Kit</strong>
+    </div>
+  </div>
+  <h1 style="margin: 0 0 8px 0; font-size: 2.2rem; font-weight: 800; background: linear-gradient(90deg, #ffffff 0%, #bfdbfe 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Zettelkasten Ontology — As 5 Camadas de Notas
+  </h1>
+  <p style="margin: 0; color: #94a3b8; font-size: 1rem; line-height: 1.6;">
+    Especificação formal da ontologia Zettelkasten: Definições de Fleeting, Literature, Permanent, Project e Structure Notes.
+  </p>
+</div>
 
-[[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Hub Zettelkasten]] | [[3. Resources/Zettelkasten/Literature Map/Literature Map\|Mapa de Literatura]] | [[3. Resources/Zettelkasten/Views/ARCO View\|ARCO]] | [[3. Resources/Zettelkasten/Views/Inspect View\|Inspect]]
-
-> [!ABSTRACT] **Definição / Definition**
-> Um Zettelkasten é um sistema de gestão de conhecimento pessoal composto por cinco elementos fundamentais: **notas, links, metadados, estruturas e processos**.
-> A Ontologia define como esses elementos interagem e se organizam em 5 camadas principais.
-
----
-
-## 📸 Diagrama da Ontologia Zettelkasten
-
-![Zettelkasten_Ontology.png](/img/user/3.%20Resources/Zettelkasten/Visuals/Zettelkasten_Ontology.png)
-
----
-
-## 🏛️ As 5 Camadas da Ontologia (The 5 Layers)
-
-### 1️⃣ Camada 1: Fleeting Notes (Notas Rápida / Captura)
-- **Função**: Ideias temporárias, pensamentos rápidos, notas de reuniões de rascunho.
-- **Correspondência LifeOS**: `-1. Capture`
-- **Guia**: [[3. Resources/Zettelkasten/Guides/1_Fleeting Notes Guide\|Guia Fleeting Notes]]
-- **Regra**: Devem ser revisadas e processadas periodicamente (descartadas ou convertidas em Literature/Permanent Notes).
-
-### 2️⃣ Camada 2: Literature Notes (Notas de Literatura)
-- **Função**: Resumos de livros, artigos, podcasts, citações (`#type/quote`), termos (`#type/term`), pessoas (`#type/person`), ferramentas (`#type/tool`).
-- **Correspondência LifeOS**: `3. Resources/Literature`
-- **Guia**: [[3. Resources/Zettelkasten/Guides/2_Literature Notes Guide\|Guia Literature Notes]]
-- **Regra**: Escritas no contexto da fonte original, sempre vinculadas via `based_on:: [[Fonte]]`.
-
-### 3️⃣ Camada 3: Permanent Notes (Notas Permanentes)
-- **Função**: Insights atômicos (`#type/note`), perguntas (`#type/question`), prompts (`#type/prompt`), sketchnotes (`#type/sketchnote`).
-- **Correspondência LifeOS**: `3. Resources/Permanent`
-- **Guia**: [[3. Resources/Zettelkasten/Guides/3_Permanent Notes Guide\|Guia Permanent Notes]]
-- **Regras Principais**:
-  1. **Atomicidade**: Uma ideia por nota.
-  2. **Autonomia**: Escritas com suas próprias palavras, compreensíveis por si sós.
-  3. **Reusabilidade**: Conectadas hipertextualmente a outras notas.
-
-### 4️⃣ Camada 4: Project Notes (Notas de Projeto)
-- **Função**: Tarefas atreladas a metas com prazos, rascunhos de e-books, artigos e publicações.
-- **Correspondência LifeOS**: `1. Projects` / `5. Express`
-- **Guia**: [[3. Resources/Zettelkasten/Guides/4_Project Notes Guide\|Guia Project Notes]]
-
-### 5️⃣ Camada 5: Structure Notes (Notas de Estrutura)
-- **Função**: Mapas de Conteúdo (MOCs), Índices, Dashboards ARCO/Inspect e Canvases.
-- **Correspondência LifeOS**: `3. Resources/Zettelkasten`
-- **Guia**: [[3. Resources/Zettelkasten/Guides/5_Structure Notes Guide\|Guia Structure Notes]]
+<div style="background: rgba(15, 23, 42, 0.8); border: 1px solid rgba(255, 255, 255, 0.08); padding: 12px 18px; border-radius: 10px; margin-bottom: 24px; font-size: 0.9rem;">
+  📍 <strong>Navegação / Routing:</strong> [[HOME\|🏠 Home]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Hub Zettelkasten]] • [[3. Resources/Zettelkasten/Literature Map/Literature Map\|🗺️ Literature Map]] • [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|🏗️ Ontologia]]
+</div>
 
 ---
 
-## 🏷️ Taxonomia de Tags (Tag System)
+## 🏗️ Especificação das 5 Camadas
 
-A arquitetura Zettelkasten utiliza tags estruturadas em namespaces:
-
-- `#type/*` — Define a classe de nota (ex: `#type/note`, `#type/book`, `#type/quote`, `#type/term`, `#type/structure`, `#type/question`).
-- `#theme/*` — Define a área temática (ex: `#theme/zettelkasten`, `#theme/productivity`, `#theme/philosophy`).
-- `#structure/*` — Utilizado para notas de estrutura (ex: `#structure/moc`, `#structure/index`, `#structure/view`).
-- `#target/*` — Define a meta de saída da nota (ex: `#target/project`, `#target/github`, `#target/article`).
-
----
-
-## 📋 Propriedades Frontmatter Padrão
-
-```yaml
----
-created: YYYY-MM-DD
-modified: YYYY-MM-DD
-tags:
-  - type/note
-  - theme/zettelkasten
-aliases: []
-lead: "Resumo em 1-3 frases sobre o núcleo da ideia da nota."
-template_type: Permanent
-template_version: "1.0"
----
-```
+1. ⚡ **Fleeting Notes**: Capturas rápidas e provisórias (`-1. Capture`).
+2. 📖 **Literature Notes**: Resumos fiéis de fontes externas (`3. Resources`).
+3. 🧠 **Permanent Notes**: Ideias atômicas autorais (`3. Resources`).
+4. 🚀 **Project Notes**: Entregáveis com prazo (`1. Projects` / `5. Express`).
+5. 🏗️ **Structure Notes**: MOCs e mapas estruturais (`3. Resources/Zettelkasten`).
 
 ---
 
-## 📊 Diagramas de Modelos de Suporte
+## 📐 Regras de Conexão entre Notas
 
-### Diagrama de Classes Zettelkasten (UML)
-![Zettelkasten_Class_Diagram_2025-04-26.png](/img/user/3.%20Resources/Zettelkasten/Visuals/Zettelkasten_Class_Diagram_2025-04-26.png)
-
-### Modelo de Maturidade (Maturity Model)
-![zettelkasten_maturity_2024-11-18.png](/img/user/3.%20Resources/Zettelkasten/Visuals/zettelkasten_maturity_2024-11-18.png)
-
----
-
-## 🎨 Canvases da Ontologia
-
-- `![[Zettelkasten Ontology.canvas|Ontology Canvas]]`
-- `![[How to Use Links with Templates.canvas|Linking Rules Canvas]]`
-
----
-*Retornar ao [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Hub Zettelkasten]]*
+- Toda **Literature Note** deve referenciar sua fonte original e derivar pelo menos uma **Permanent Note**.
+- Toda **Permanent Note** deve expressar exatamente **uma ideia** (Princípio da Atomicidade).
+- Toda **Project Note** da Kreston pode consumir Permanent Notes como fundamentação teórica.
