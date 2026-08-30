@@ -76,27 +76,129 @@
 
 ---
 
-## 📊 Tabela Consolidada de Frentes & Esforço
-
-| # | Frente de Trabalho | Responsável | Status | Grupos | Esforço Total | Quadro de Trabalho |
-| :---: | :--- | :--- | :---: | :---: | :---: | :--- |
-| 1 | **Branding, Mídia & Funil** | 🎨 Muriel | 🔵 Em Execução | 7 | `⏱️ 62h` | [[1. Projects/kreston/kreston-muriel\|Abrir Board →]] |
-| 2 | **Automações, Bot & BI** | ⚡ Gabriel | 🔵 Em Execução | 3 | `⏱️ 42h` | [[1. Projects/kreston/kreston-gabriel\|Abrir Board →]] |
-| 3 | **Kanban Trello Live** | 👥 Equipe | 🟢 Sincronizado | Live | `⏱️ Contínuo` | [[1. Projects/kreston/kreston-kanban\|Abrir Kanban →]] |
-| 4 | **Gestão Operacional** | 🏢 Equipe | 🟢 Ativo | Ops | `⏱️ Diário` | [[2. Areas/Work/kreston-gestao-operacional\|Ver Ops →]] |
-| 5 | **Knowledge Engine** | 🧠 SAE | 🟢 Ativo | 5 Camadas | `⏱️ Atômico` | [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Abrir Hub →]] |
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>📊 Tabela Consolidada de Frentes &amp; Esforço — SAE Work OS</h3>
+    <span class="sae-status-pill green">🟢 Painel Ativo</span>
+  </div>
+  <table class="sae-modern-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Frente de Trabalho</th>
+        <th>Responsável</th>
+        <th>Status</th>
+        <th>Grupos</th>
+        <th>Esforço</th>
+        <th style="text-align: center;">Ação / Click</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>1</strong></td>
+        <td><strong>Branding, Mídia &amp; Funil</strong></td>
+        <td>🎨 Muriel</td>
+        <td><span class="sae-status-pill blue">🔵 Em Execução</span></td>
+        <td>7 Boards</td>
+        <td><span class="sae-effort-chip">⏱️ 62h</span></td>
+        <td style="text-align: center;"><a href="kreston-muriel" class="sae-action-btn">Abrir Board ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>2</strong></td>
+        <td><strong>Automações, Bot &amp; BI</strong></td>
+        <td>⚡ Gabriel</td>
+        <td><span class="sae-status-pill blue">🔵 Em Execução</span></td>
+        <td>3 Boards</td>
+        <td><span class="sae-effort-chip">⏱️ 42h</span></td>
+        <td style="text-align: center;"><a href="kreston-gabriel" class="sae-action-btn">Abrir Board ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>3</strong></td>
+        <td><strong>Kanban Trello Live</strong></td>
+        <td>👥 Equipe</td>
+        <td><span class="sae-status-pill green">🟢 Sincronizado</span></td>
+        <td>Live API</td>
+        <td><span class="sae-effort-chip">⏱️ Contínuo</span></td>
+        <td style="text-align: center;"><a href="kreston-kanban" class="sae-action-btn">Abrir Kanban ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>4</strong></td>
+        <td><strong>Gestão Operacional</strong></td>
+        <td>🏢 Equipe</td>
+        <td><span class="sae-status-pill green">🟢 Ativo</span></td>
+        <td>Operações</td>
+        <td><span class="sae-effort-chip">⏱️ Diário</span></td>
+        <td style="text-align: center;"><a href="kreston-gestao-operacional" class="sae-action-btn">Ver Ops ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>5</strong></td>
+        <td><strong>Knowledge Engine</strong></td>
+        <td>🧠 SAE</td>
+        <td><span class="sae-status-pill green">🟢 Ativo</span></td>
+        <td>5 Camadas</td>
+        <td><span class="sae-effort-chip">⏱️ Atômico</span></td>
+        <td style="text-align: center;"><a href="00_Zettelkasten_Hub" class="sae-action-btn">Abrir Hub ➔</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
-## 🧠 Knowledge Engine — Módulos Estruturais
-
-| # | Módulo | Tipo | Função | Acesso |
-| :---: | :--- | :---: | :--- | :--- |
-| 1 | **Zettelkasten Hub** | 🧠 MOC | Central de conexões e índice geral | [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Abrir Hub →]] |
-| 2 | **Literature Map** | 🗺️ Map | Pipeline de destilação: Fonte → Nota | [[3. Resources/Zettelkasten/Literature Map/Literature Map\|Abrir Mapa →]] |
-| 3 | **Ontologia** | 🏗️ Rules | Regras formais das 5 camadas | [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Abrir Ontologia →]] |
-| 4 | **ARCO View** | 🧭 Framework | Atlas • Reference • Calendar • Organizer | [[3. Resources/Zettelkasten/Views/ARCO View\|Abrir ARCO →]] |
-| 5 | **Inspect View** | 📊 Analytics | Vault health, distribuição e métricas | [[3. Resources/Zettelkasten/Views/Inspect View\|Abrir Analytics →]] |
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>🧠 Knowledge Engine — Módulos Estruturais (Zettelkasten)</h3>
+    <span class="sae-status-pill blue">🔵 5 Camadas Atômicas</span>
+  </div>
+  <table class="sae-modern-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Módulo Estrutural</th>
+        <th>Tipo</th>
+        <th>Função &amp; Descrição</th>
+        <th style="text-align: center;">Acesso / Click</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>1</strong></td>
+        <td><strong>Zettelkasten Hub</strong></td>
+        <td>🧠 MOC</td>
+        <td>Central de conexões, taxonomia e índice geral do vault</td>
+        <td style="text-align: center;"><a href="00_Zettelkasten_Hub" class="sae-action-btn">Abrir Hub ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>2</strong></td>
+        <td><strong>Literature Map</strong></td>
+        <td>🗺️ Map</td>
+        <td>Pipeline de destilação: Fonte original → Resumo → Nota atômica</td>
+        <td style="text-align: center;"><a href="Literature Map" class="sae-action-btn">Abrir Mapa ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>3</strong></td>
+        <td><strong>Zettelkasten Ontology</strong></td>
+        <td>🏗️ Rules</td>
+        <td>Regras formais de integridade e taxonomia das 5 camadas</td>
+        <td style="text-align: center;"><a href="Zettelkasten Ontology" class="sae-action-btn">Abrir Ontologia ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>4</strong></td>
+        <td><strong>ARCO View</strong></td>
+        <td>🧭 Framework</td>
+        <td>Atlas • Reference • Calendar • Organizer (Visão 360°)</td>
+        <td style="text-align: center;"><a href="ARCO View" class="sae-action-btn">Abrir ARCO ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>5</strong></td>
+        <td><strong>Inspect View</strong></td>
+        <td>📊 Analytics</td>
+        <td>Vault health analytics, distribuição de notas e métricas</td>
+        <td style="text-align: center;"><a href="Inspect View" class="sae-action-btn">Abrir Analytics ➔</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
