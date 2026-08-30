@@ -1,33 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-gabriel/","tags":["project/kreston","kreston/gabriel"],"dg-note-properties":{"tags":["project/kreston","kreston/gabriel"],"aliases":["Plano Gabriel - Kreston"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-gabriel/","tags":["project/sae","sae/gabriel"],"dg-note-properties":{"tags":["project/sae","sae/gabriel"],"aliases":["Plano Gabriel - SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 
+![SAE Logo](/img/user/sae-logo.jpg)
+
 # ⚡ Gabriel Work Board — Automação, Bot & BI
 
-> [!INFO] 📊 **PAINEL DE TRABALHO — GABRIEL**
+> [!INFO] 📊 **PAINEL DE TRABALHO — GABRIEL (SAE)**
 > 
 > | Métrica | Valor |
 > | :--- | :--- |
+> | ⚙️ **Empresa** | **SAE — Systemic Automation Engineering** |
 > | 👤 **Responsável** | Gabriel |
-> | ⚡ **Frente** | Automação, Bot & Inteligência |
+> | ⚡ **Frente** | Automação, Bot & BI |
 > | ⏱️ **Carga Total** | 42 Horas |
-> | 📋 **Grupos de Tarefa** | 3 Boards |
-> | 🎯 **Objetivo** | Bot 24/7 & Dashboard ROI |
+> | 📋 **Grupos de Tarefa** | 3 Data Boards |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban]]
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 SAE Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]]
 
 ---
 
 ## 📌 Data Tables — Gabriel Work Boards
 
-### 🤖 1 · Automação do WhatsApp (99Motors)
+### 🤖 1 · Automação de Atendimento & Bot (99Motors)
 
-> [!TIP] 💡 **Contexto**
-> Integração com a API do 99Motors para resposta automática de leads via WhatsApp: envio de fotos, ficha técnica e agendamento — tudo em menos de 10 segundos.
+> [!TIP] 💡 **Engenharia de Automação SAE**
+> Resposta automática de leads via WhatsApp: envio de fotos, ficha técnica e agendamento em menos de 5 segundos com a inteligência do robô SAE.
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
@@ -41,8 +43,8 @@
 
 ### 📊 2 · Relatório Mensal Automatizado & BI
 
-> [!TIP] 💡 **Contexto**
-> Dashboard centralizado no Looker Studio conectado ao Meta Ads e WhatsApp para acompanhamento semanal de CPL, ROI e volume de leads.
+> [!TIP] 💡 **BI & Analytics SAE**
+> Dashboard centralizado no Looker Studio / Metabase conectado ao Meta Ads e WhatsApp para acompanhamento em tempo real de CPL, ROI e conversões.
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
@@ -53,10 +55,10 @@
 
 ---
 
-### 📅 3 · Agendamento Automático de Test-Drive
+### 📅 3 · Agendamento Automático Sistêmico
 
-> [!TIP] 💡 **Contexto**
-> Plataforma de agendamento sem atrito integrada ao bot do WhatsApp, com lembretes automáticos de 24h e 2h antes do test-drive.
+> [!TIP] 💡 **Agendamento Sem Fricção**
+> Integração de formulários de agendamento automático com disparo de lembretes via WhatsApp (24h e 2h antes).
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
@@ -67,15 +69,6 @@
 
 ---
 
-> [!SUCCESS] ✅ **Resumo de Progresso**
+> [!SUCCESS] ✅ **Resumo de Progresso Gabriel**
 > - 🔵 **Em Andamento**: 3 tarefas ativas (API WhatsApp, KPIs, Dashboard)
 > - 🟡 **A Fazer**: 9 tarefas na fila
-> - 🟢 **Concluídas**: 0 (sprint não iniciada)
-
----
-
-## 📊 Tarefas (LifeOS)
-
-```LifeOS
-TaskListByTag
-```

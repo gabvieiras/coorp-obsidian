@@ -1,28 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["home","workspace","kreston","gardenEntry"],"dg-note-properties":{"tags":["home","workspace","kreston","gardenEntry"],"aliases":["Home OS","Executive Workspace"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"permalink":"/home/","tags":["home","workspace","sae","gardenEntry"],"dg-note-properties":{"tags":["home","workspace","sae","gardenEntry"],"aliases":["Home OS","SAE Executive Workspace","SAE Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 
-# 🏢 Kreston Work OS — Executive Command Center
+![SAE Logo](/img/user/sae-logo.jpg)
 
-> [!ABSTRACT] 📊 **STATUS DO SISTEMA**
+# 🏢 SAE — Systemic Automation Engineering
+
+> [!ABSTRACT] 📊 **STATUS DO SISTEMA — SAE WORK OS**
 > 🟢 **Online & Sincronizado** — Q3 2026
 > 
 > | Métrica | Valor |
 > | :--- | :--- |
-> | 👥 **Sócios Ativos** | Gabriel & Muriel |
-> | 🎯 **Meta Principal** | Automatizar Vendas & Construir Marca |
-> | 📊 **Progresso** | 35% concluído |
+> | 🏢 **Empresa Oficial** | **SAE — Systemic Automation Engineering** |
+> | 👥 **Engenheiros & Sócios** | Gabriel & Muriel |
+> | 🎯 **Meta Principal** | Automação Sistêmica & Engenharia de Processos |
+> | 📊 **Progresso Geral** | 35% concluído |
 > | ⏱️ **Carga Total** | 104 horas planejadas |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Knowledge]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Operações]]
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 SAE Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Knowledge Engine]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Gestão Operacional]]
 
 ---
 
-## 📊 Painel de Frentes de Trabalho
+## 📊 Painel de Frentes de Trabalho (SAE Work OS)
 
 | # | Frente de Trabalho | Responsável | Status | Grupos | Esforço Total | Quadro de Trabalho |
 | :---: | :--- | :--- | :---: | :---: | :---: | :--- |
@@ -33,34 +36,34 @@
 
 ---
 
-## 🚗 Boards de Projeto — Acesso Direto
+## 🚀 Projects & Work Boards — Acesso Direto
 
-> [!DANGER] 📊 **Kreston Executive Overview**
-> Painel consolidado da empresa com divisão de responsabilidades, metas e KPIs.
+> [!DANGER] 📊 **SAE — Executive Overview**
+> Painel executivo consolidado da **SAE (Systemic Automation Engineering)** com metas, divisão de responsabilidades e KPIs.
 > 
-> 👉 **[[1. Projects/kreston/kreston.README\|Acessar Painel Executivo →]]**
+> 👉 **[[1. Projects/kreston/kreston.README\|Acessar Painel Executivo SAE →]]**
 
 > [!QUOTE] 🎨 **Muriel — Branding, Fotos & Leads**
-> Instagram, Facebook, Padrão Visual de Fotos, Walkarounds em Vídeo, Copywriting AIDA, Tráfego Pago e Funil de Conversão.
+> Identity, Redes Sociais, Padronização Visual, Walkarounds em Vídeo, Copywriting AIDA, Tráfego Pago e Funil de Conversão.
 > 
 > 👉 **[[1. Projects/kreston/kreston-muriel\|Abrir Board Muriel →]]**
 
-> [!INFO] ⚡ **Gabriel — WhatsApp Bot, BI & Agendamento**
-> Bot de atendimento 24/7 via 99Motors, Relatórios Automatizados de ROI no Looker Studio, e Agendamento de Test-Drive via Cal.com.
+> [!INFO] ⚡ **Gabriel — Automação WhatsApp, BI & Agendamento**
+> Engenharia de bots 24/7, Relatórios Automatizados de ROI no Looker Studio, e Agendamento de Test-Drive via Cal.com.
 > 
 > 👉 **[[1. Projects/kreston/kreston-gabriel\|Abrir Board Gabriel →]]**
 
-> [!TIP] 📋 **Monday Kanban — Quadro Trello Interativo**
-> Gestão operacional de tarefas com drag & drop em tempo real para toda a equipe. Sincronizado ao vivo com o Trello.
+> [!TIP] 📋 **Monday Kanban — Quadro Interativo SAE**
+> Gestão operacional de tarefas com drag & drop em tempo real para toda a equipe SAE. Sincronizado ao vivo com o Trello.
 > 
 > 👉 **[[1. Projects/kreston/kreston-kanban\|Abrir Kanban Interativo →]]**
 
 ---
 
-## 🧠 Knowledge Engine — Zettelkasten
+## 🧠 Knowledge Engine — Zettelkasten System
 
-> [!WARNING] 🧠 **Motor de Conhecimento**
-> Base de conhecimento com 5 camadas atômicas: Fleeting → Literature → Permanent → Project → Structure. Conecta leituras externas a insights aplicados nos projetos.
+> [!WARNING] 🧠 **Base de Engenharia do Conhecimento**
+> Sistema de 5 camadas atômicas (Fleeting → Literature → Permanent → Project → Structure). Conecta pesquisas de arquitetura de automação a insights aplicados nos clientes e projetos SAE.
 
 | # | Módulo | Tipo | Função | Acesso |
 | :---: | :--- | :---: | :--- | :--- |
@@ -72,26 +75,26 @@
 
 ---
 
-## 📚 Publicações & Notas Destiladas
+## 📚 Publicações & Cases de Engenharia SAE
 
-> [!EXAMPLE] 🚀 **Artigo Express**
+> [!EXAMPLE] 🚀 **Artigo Express — Case SAE**
 > **[[5. Express/blogs/Como Estruturar um Funil de Vendas Automatizado para Loja de Veiculos\|Funil de Vendas Automatizado para Loja de Veículos]]**
 > 
-> Case executivo combinando branding visual (Muriel) + automação WhatsApp (Gabriel) para maximizar conversão de leads.
+> Case executivo de engenharia sistêmica combinando branding de marca (Muriel) + automação de mensagens e inteligência (Gabriel).
 
 ### 📖 Fontes Destiladas
 
 | Fonte | Autor | Tipo | Link |
 | :--- | :--- | :---: | :--- |
 | **How to Take Smart Notes** | Sönke Ahrens | 📖 Livro | [[3. Resources/Zettelkasten/Literature/Livro - How to Take Smart Notes (Soenke Ahrens)\|Ver →]] |
-| **Guia Automação 99Motors** | Equipe Kreston | 🛠️ Tool | [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Ver →]] |
+| **Guia Automação 99Motors** | Equipe SAE | 🛠️ Tool | [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Ver →]] |
 
 ### 🧠 Notas Permanentes
 
 | Nota | Camada | Aplicação | Link |
 | :--- | :---: | :--- | :--- |
-| **Atomicidade de Notas** | Permanent | Princípio core do Zettelkasten | [[3. Resources/Zettelkasten/Permanent/Atomicidade de Notas no Zettelkasten\|Ver →]] |
-| **Funil WhatsApp** | Permanent | Usado no Plano Gabriel | [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Ver →]] |
-| **Padronização Visual** | Permanent | Usado no Plano Muriel | [[3. Resources/Zettelkasten/Permanent/Padronizacao Visual como Fator de Confianca na Venda de Veiculos\|Ver →]] |
+| **Atomicidade de Notas** | Permanent | Arquitetura do Zettelkasten SAE | [[3. Resources/Zettelkasten/Permanent/Atomicidade de Notas no Zettelkasten\|Ver →]] |
+| **Funil WhatsApp** | Permanent | Engenharia do Bot WhatsApp SAE | [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Ver →]] |
+| **Padronização Visual** | Permanent | Identidade e Confiança de Marca | [[3. Resources/Zettelkasten/Permanent/Padronizacao Visual como Fator de Confianca na Venda de Veiculos\|Ver →]] |
 
 ---

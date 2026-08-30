@@ -1,62 +1,65 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-readme/","tags":["project/kreston","kreston/overview"],"dg-note-properties":{"tags":["project/kreston","kreston/overview"],"aliases":["Kreston Project","Visão Geral Kreston"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-readme/","tags":["project/sae","sae/overview"],"dg-note-properties":{"tags":["project/sae","sae/overview"],"aliases":["SAE Project","Visão Geral SAE","Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 
-# 🚗 Kreston Motors — Painel Executivo
+![SAE Logo](/img/user/sae-logo.jpg)
 
-> [!ABSTRACT] 📊 **VISÃO GERAL DA EMPRESA**
-> 🚗 **Kreston Motors** — Compra e Venda de Seminovos
+# 🏢 SAE — Systemic Automation Engineering
+
+> [!ABSTRACT] 📊 **PAINEL EXECUTIVO — SAE**
+> 🏢 **SAE — Systemic Automation Engineering**
 > 
 > | Detalhe | Info |
 > | :--- | :--- |
-> | 👥 **Sócios** | Gabriel (Automação) & Muriel (Branding) |
-> | 🎯 **Meta Q3** | Bot 24/7 + Marca Premium nas Redes |
+> | ⚙️ **Empresa** | **SAE — Systemic Automation Engineering** |
+> | 👥 **Engenheiros & Sócios** | Gabriel (Automação & BI) & Muriel (Branding & Mídia) |
+> | 🎯 **Meta Q3** | Engenharia Sistêmica de Processos, Bot 24/7 & Presença de Marca |
 > | 📊 **Progresso** | 35% concluído |
-> | ⏱️ **Carga** | 104h planejadas (62h Muriel + 42h Gabriel) |
+> | ⏱️ **Carga Total** | 104h planejadas (62h Muriel + 42h Gabriel) |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Operações]]
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 SAE Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Gestão Operacional]]
 
 ---
 
-## 👥 Frentes de Trabalho
+## 👥 Frentes de Trabalho (Engenharia SAE)
 
-| # | Frente | Responsável | Status | Entregáveis | Board |
+| # | Frente | Responsável | Status | Entregáveis Principais | Board |
 | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **Branding & Mídia** | 🎨 Muriel | 🔵 Em Andamento | Redes, Fotos, Vídeos, Copies, Funil | [[1. Projects/kreston/kreston-muriel\|Abrir →]] |
-| 2 | **Automações & BI** | ⚡ Gabriel | 🔵 Em Andamento | Bot WhatsApp, ROI Reports, Agenda | [[1. Projects/kreston/kreston-gabriel\|Abrir →]] |
+| 1 | **Branding & Mídia** | 🎨 Muriel | 🔵 Em Andamento | Identity, Fotos, Vídeos, Copywriting, Funil | [[1. Projects/kreston/kreston-muriel\|Abrir →]] |
+| 2 | **Automações & BI** | ⚡ Gabriel | 🔵 Em Andamento | Bot WhatsApp 24/7, BI Looker Studio, Agenda | [[1. Projects/kreston/kreston-gabriel\|Abrir →]] |
 | 3 | **Kanban Ao Vivo** | 👥 Equipe | 🟢 Sync | Gestão de tarefas em tempo real | [[1. Projects/kreston/kreston-kanban\|Abrir →]] |
 
 ---
 
-## 🎯 Objetivo Estratégico
+## 🎯 Objetivo Estratégico SAE
 
-> [!WARNING] 🎯 **Meta Geral do Projeto Kreston**
-> Profissionalizar o acervo de veículos, construir uma marca de alta confiança nas redes sociais e **automatizar 100% da captura e qualificação de leads** via WhatsApp até o fechamento de venda.
+> [!WARNING] 🎯 **Missão da SAE (Systemic Automation Engineering)**
+> Projetar e executar sistemas autônomos de engenharia de automação, elevando o padrão de presença de marca, qualificação de leads e integração de processos de ponta a ponta.
 > 
-> **Resultados esperados ao fim do Q3:**
-> - 🤖 Bot WhatsApp respondendo em < 5 segundos
-> - 📸 100% dos veículos com fotos padronizadas (12 ângulos)
-> - 📊 Dashboard de ROI atualizado automaticamente
-> - 📅 Agendamento de test-drive sem atrito
+> **Metas de Entrega Q3:**
+> - 🤖 **Bot WhatsApp Inteligente**: Atendimento e triagem em < 5 segundos
+> - 📸 **Padronização Visual**: Matriz de criativos e padrões visuais de alta confiança
+> - 📊 **BI & Analytics**: Extração automatizada de métricas de ROI e conversão
+> - 📅 **Agendamento Sistêmico**: Fluxo contínuo sem fricção entre atendimento e fechamento
 
 ---
 
-## 📋 Atalhos Rápidos
+## 📋 Atalhos Rápidos SAE
 
-> [!TIP] 📂 **Acessos do Projeto**
-> 🎨 [[1. Projects/kreston/kreston-muriel\|Board da Muriel — Branding & Fotos →]]
-> ⚡ [[1. Projects/kreston/kreston-gabriel\|Board do Gabriel — Automação & BI →]]
+> [!TIP] 📂 **Navegação de Módulos**
+> 🎨 [[1. Projects/kreston/kreston-muriel\|Plano Muriel — Branding & Mídia →]]
+> ⚡ [[1. Projects/kreston/kreston-gabriel\|Plano Gabriel — Automação & BI →]]
 > 📋 [[1. Projects/kreston/kreston-kanban\|Kanban Trello ao Vivo →]]
-> 🏢 [[2. Areas/Work/kreston-gestao-operacional\|Gestão Operacional →]]
-> 🧠 [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Knowledge Engine →]]
+> 🏢 [[2. Areas/Work/kreston-gestao-operacional\|Gestão Operacional SAE →]]
+> 🧠 [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Engine de Conhecimento Zettelkasten →]]
 
 ---
 
-## 📋 Tarefas do Projeto (LifeOS)
+## 📋 Lista de Tarefas (LifeOS Query)
 
 ```LifeOS
 TaskListByTag
@@ -64,7 +67,7 @@ TaskListByTag
 
 ---
 
-## 📂 Arquivos do Projeto (LifeOS)
+## 📂 Arquivos do Projeto (LifeOS Query)
 
 ```LifeOS
 FileListByTag

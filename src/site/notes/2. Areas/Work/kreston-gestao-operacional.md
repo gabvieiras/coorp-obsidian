@@ -1,55 +1,58 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/work/kreston-gestao-operacional/","tags":["area/work","kreston/gestao"],"dg-note-properties":{"tags":["area/work","kreston/gestao"],"aliases":["Gestão Operacional Kreston"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"permalink":"/2-areas/work/kreston-gestao-operacional/","tags":["area/work","sae/gestao"],"dg-note-properties":{"tags":["area/work","sae/gestao"],"aliases":["Gestão Operacional SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 
-# 🏢 Gestão Operacional — Kreston Motors
+![SAE Logo](/img/user/sae-logo.jpg)
 
-> [!DANGER] 🏢 **ÁREA DE OPERAÇÕES**
+# 🏢 Gestão Operacional — SAE (Systemic Automation Engineering)
+
+> [!DANGER] 🏢 **ÁREA DE OPERAÇÕES SAE**
 > 
 > | Detalhe | Info |
 > | :--- | :--- |
-> | 📋 **Área** | Work / Operações |
+> | ⚙️ **Empresa** | **SAE — Systemic Automation Engineering** |
+> | 📋 **Área** | Work / Operações Sistêmicas |
 > | 🔄 **Frequência** | Processos Diários & Semanais |
 > | 🟢 **Status** | Ativo |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Operações]]
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 SAE Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [[2. Areas/Work/kreston-gestao-operacional\|🏢 Gestão Operacional]]
 
 ---
 
-## 📋 Processos Operacionais
+## 📋 Processos Operacionais SAE
 
 | Processo | Frequência | Responsável | Status |
 | :--- | :---: | :---: | :---: |
-| Checkin de veículos (FIPE + fotos) | 📅 Diário | 👥 Equipe | 🟢 Ativo |
-| Publicação de anúncios OLX / Webmotors | 📅 Diário | 🎨 Muriel | 🟢 Ativo |
-| Resposta de leads WhatsApp (< 5min) | 📅 Diário | ⚡ Gabriel (Bot) | 🔵 Implementando |
-| Relatório de desempenho semanal | 📅 Semanal | ⚡ Gabriel | 🟡 A Configurar |
-| Revisão de estoque e precificação | 📅 Semanal | 👥 Equipe | 🟢 Ativo |
-| Análise de ROI tráfego pago | 📅 Mensal | ⚡ Gabriel | 🟡 A Configurar |
+| Checkin de recebimento e catálogo | 📅 Diário | 👥 Equipe | 🟢 Ativo |
+| Publicação de anúncios e mídias de vendas | 📅 Diário | 🎨 Muriel | 🟢 Ativo |
+| Resposta de leads WhatsApp Bot SAE (< 5s) | 📅 Diário | ⚡ Gabriel (Bot) | 🔵 Implementando |
+| Relatório de desempenho semanal BI | 📅 Semanal | ⚡ Gabriel | 🟡 A Configurar |
+| Revisão de portfólio e precificação | 📅 Semanal | 👥 Equipe | 🟢 Ativo |
+| Análise de ROI tráfego pago Meta | 📅 Mensal | ⚡ Gabriel | 🟡 A Configurar |
 
 ---
 
-## 📊 KPIs Operacionais
+## 📊 KPIs Operacionais SAE
 
-> [!EXAMPLE] 📈 **Métricas em Definição**
-> Os KPIs abaixo estão sendo configurados no Looker Studio para acompanhamento automatizado.
+> [!EXAMPLE] 📈 **Métricas de Engenharia**
+> Os KPIs abaixo estão sendo configurados no Looker Studio para acompanhamento em tempo real.
 
 | KPI | Meta | Atual | Status |
 | :--- | :---: | :---: | :---: |
-| Tempo de resposta WhatsApp | < 5 min | — | 🔵 Implementando |
-| Veículos publicados / semana | ≥ 5 | — | 🟡 Baseline |
+| Tempo de resposta Bot WhatsApp | < 5 seg | — | 🔵 Implementando |
+| Anúncios publicados / semana | ≥ 5 | — | 🟡 Baseline |
 | CPL (Custo por Lead) | < R$15 | — | 🟡 A Medir |
 | ROI Semanal de Tráfego | > 3x | — | 🟡 A Medir |
-| Taxa de Agendamento Test-Drive | > 20% | — | 🟡 A Medir |
+| Taxa de Agendamento Sistêmico | > 20% | — | 🟡 A Medir |
 
 ---
 
-> [!TIP] 📂 **Acessos Rápidos**
-> 📊 [[1. Projects/kreston/kreston.README\|Painel Executivo →]]
+> [!TIP] 📂 **Acessos Rápidos SAE**
+> 📊 [[1. Projects/kreston/kreston.README\|Painel Executivo SAE →]]
 > 🎨 [[1. Projects/kreston/kreston-muriel\|Board Muriel →]]
 > ⚡ [[1. Projects/kreston/kreston-gabriel\|Board Gabriel →]]
 > 📋 [[1. Projects/kreston/kreston-kanban\|Kanban Trello →]]

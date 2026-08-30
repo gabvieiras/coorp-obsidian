@@ -1,34 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["readme","lifeos"],"dg-note-properties":{"tags":["readme","lifeos"],"aliases":["LifeOS Manual"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"permalink":"/readme/","tags":["readme","sae"],"dg-note-properties":{"tags":["readme","sae"],"aliases":["Vault README","SAE Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 
-# 🚀 Obsidian LifeOS & Zettelkasten Vault
+![SAE Logo](/img/user/sae-logo.jpg)
 
-> [!INFO] **Manual & Visão Geral do Cofre**
-> Sistema de Gestão Pessoal e Empresarial combinando a metodologia PARA (Projects, Areas, Resources, Archives), Zettelkasten Starter Kit e Projetos Kreston.
+# 🏢 SAE — Systemic Automation Engineering
 
----
-
-> [!NOTE] 📍 **Navegação / Routing**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Kreston Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Plano Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Plano Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban Trello]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Zettelkasten Hub]]
+> [!ABSTRACT] 📊 **SAE WORK OS — VAULT DA EMPRESA**
+> Welcome to the official **SAE (Systemic Automation Engineering)** knowledge base and executive workspace, powered by Obsidian LifeOS and IBM Monday Dark Work OS design.
 
 ---
 
-## ⚡ Atalhos Principais
-
-- 🏠 **[[HOME\|Home Dashboard]]**: Painel principal do vault.
-- 🚗 **[[1. Projects/kreston/kreston.README\|Empresa Kreston]]**: Gestão estratégica da Kreston Motors.
-- 📋 **[[1. Projects/kreston/kreston-kanban\|Kanban Trello Ao Vivo]]**: Quadro operacional de tarefas em tempo real.
-- 🧠 **[[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Zettelkasten Hub]]**: Central MOC de conhecimento e ontologia.
-- 🚀 **[[5. Express/blogs/Como Estruturar um Funil de Vendas Automatizado para Loja de Veiculos\|Artigo: Funil de Vendas Automatizado]]**: Case de vendas da Kreston.
+> [!NOTE] 🌐 **System Navigation**
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 SAE Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|🧠 Knowledge Engine]]
 
 ---
 
-## 📂 Estrutura de Pastas (PARA System)
+## 🎯 Executive Shortcuts
 
-1. **`1. Projects/`**: Projetos ativos com prazo (ex: [[1. Projects/kreston/kreston.README\|Empresa Kreston]]).
-2. **`2. Areas/`**: Esferas de responsabilidade contínua (ex: [[2. Areas/Work/kreston-gestao-operacional\|Gestão Operacional Kreston]]).
-3. **`3. Resources/`**: Banco de conhecimento e [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Zettelkasten Add-On]].
-4. **`4. Archives/`**: Histórico inativo de projetos passados.
-5. **`5. Express/`**: Central de artigos e publicações.
+- 🏢 **[[HOME\|Home Workspace — Central Command Center]]**
+- 📊 **[[1. Projects/kreston/kreston.README\|SAE Executive Overview — Visão Geral Executiva]]**
+- 🎨 **[[1. Projects/kreston/kreston-muriel\|Muriel Work Board — Branding, Mídia & Funil]]**
+- ⚡ **[[1. Projects/kreston/kreston-gabriel\|Gabriel Work Board — Automação WhatsApp, Bot & BI]]**
+- 📋 **[[1. Projects/kreston/kreston-kanban\|SAE Monday Kanban — Quadro Trello Ao Vivo]]**
+- 🏢 **[[2. Areas/Work/kreston-gestao-operacional\|Gestão Operacional SAE]]**
+- 🧠 **[[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Zettelkasten Knowledge Engine Hub]]**
+
+---

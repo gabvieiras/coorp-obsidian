@@ -1,24 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-muriel/","tags":["project/kreston","kreston/muriel"],"dg-note-properties":{"tags":["project/kreston","kreston/muriel"],"aliases":["Plano Muriel - Kreston"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-muriel/","tags":["project/sae","sae/muriel"],"dg-note-properties":{"tags":["project/sae","sae/muriel"],"aliases":["Plano Muriel - SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 
+![SAE Logo](/img/user/sae-logo.jpg)
+
 # 🎨 Muriel Work Board — Branding, Mídia & Leads
 
-> [!QUOTE] 📊 **PAINEL DE TRABALHO — MURIEL**
+> [!QUOTE] 📊 **PAINEL DE TRABALHO — MURIEL (SAE)**
 > 
 > | Métrica | Valor |
 > | :--- | :--- |
+> | ⚙️ **Empresa** | **SAE — Systemic Automation Engineering** |
 > | 👤 **Responsável** | Muriel |
-> | ⚡ **Frente** | Branding & Conversão |
+> | ⚡ **Frente** | Branding, Mídia & Conversão |
 > | ⏱️ **Carga Total** | 62 Horas |
-> | 📋 **Grupos de Tarefa** | 7 Boards |
-> | 🎯 **Objetivo** | Marca Premium & Leads Qualificados |
+> | 📋 **Grupos de Tarefa** | 7 Data Boards |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban]]
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 SAE Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]]
 
 ---
 
@@ -36,23 +38,23 @@
 
 ---
 
-### 📐 2 · Padronização Visual de Fotos
+### 📐 2 · Padronização Visual & Mídia
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Checklist de 12 ângulos obrigatórios por veículo | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
-| Setup de cenário: fundo limpo, piso escuro, LED | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
-| Preset de edição Lightroom / VSCO (2 versões) | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
-| Marca d'água e assinatura visual na foto | 🟡 A Fazer | `⏱️ 1h` | 📌 Normal |
+| Checklist de 12 ângulos obrigatórios por produto | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
+| Setup de cenário: fundo limpo, iluminação LED | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
+| Presets de edição Lightroom / VSCO | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
+| Marca d'água e assinatura visual SAE | 🟡 A Fazer | `⏱️ 1h` | 📌 Normal |
 
 ---
 
-### 🎬 3 · Walkarounds em Vídeo
+### 🎬 3 · Walkarounds & Vídeos Demonstrativos
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
 | Roteiro de narração padrão (30s–60s) | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
-| Captura de 1 vídeo por veículo novo em estoque | 🟡 A Fazer | `⏱️ 1h/veíc` | ⚡ Média |
+| Captura de vídeos demonstrativos em estoque | 🟡 A Fazer | `⏱️ 1h/item` | ⚡ Média |
 | Trilha sonora livre e legenda automática | 🟡 A Fazer | `⏱️ 1h` | 📌 Normal |
 | Publicação cruzada: Reels + TikTok + Shorts | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
 
@@ -62,7 +64,7 @@
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Template AIDA para anúncios OLX / Webmotors | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
+| Template AIDA para anúncios de conversão | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
 | Template PAS para Stories e WhatsApp | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
 | Banco de Copies prontos (10 variações) | 🟡 A Fazer | `⏱️ 4h` | ⚡ Média |
 
@@ -72,7 +74,7 @@
 
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
-| Título SEO otimizado para OLX e Webmotors | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
+| Títulos SEO otimizados para plataformas de vendas | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
 | Descrição estruturada com specs técnicas | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
 | Teste A/B de títulos (2 variações) | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
 
@@ -83,8 +85,8 @@
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
 | Estrutura de campanhas: Topo, Meio e Fundo | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
-| Criativo carrossel: 3 veículos da semana | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
-| Público lookalike + retargeting visitantes | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
+| Criativo carrossel de ofertas da semana | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
+| Público lookalike + retargeting de visitantes | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
 | Orçamento de teste: R$30/dia × 14 dias | 🟡 A Fazer | `⏱️ 1h` | 📌 Normal |
 
 ---
@@ -94,21 +96,12 @@
 | Item / Tarefa | Status | Esforço | Prioridade |
 | :--- | :---: | :---: | :---: |
 | Landing page com formulário (Typeform / Tally) | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
-| Automação: Lead → WhatsApp Bot → Agendamento | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
+| Automação: Lead → Bot SAE → Agendamento | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
 | Lead scoring (quente / morno / frio) | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
 | CRM mínimo via Google Sheets ou Notion | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
 
 ---
 
-> [!SUCCESS] ✅ **Resumo de Progresso**
+> [!SUCCESS] ✅ **Resumo de Progresso Muriel**
 > - 🔵 **Em Andamento**: 3 tarefas ativas
 > - 🟡 **A Fazer**: 25 tarefas na fila
-> - 🟢 **Concluídas**: 0 (sprint não iniciada)
-
----
-
-## 📊 Tarefas (LifeOS)
-
-```LifeOS
-TaskListByTag
-```

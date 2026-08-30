@@ -1,23 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-kanban/","tags":["project/kreston","kreston/kanban"],"dg-note-properties":{"tags":["project/kreston","kreston/kanban"],"aliases":["Kanban Kreston"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-kanban/","tags":["project/sae","sae/kanban"],"dg-note-properties":{"tags":["project/sae","sae/kanban"],"aliases":["Kanban SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 
-# 📋 Monday Kanban — Quadro Trello Interativo
+![SAE Logo](/img/user/sae-logo.jpg)
 
-> [!ABSTRACT] 📌 **QUADRO OPERACIONAL | AO VIVO**
+# 📋 Monday Kanban — Quadro Interativo SAE
+
+> [!ABSTRACT] 📌 **QUADRO OPERACIONAL — SAE (SYSTEMIC AUTOMATION ENGINEERING)**
 > 
 > | Detalhe | Info |
 > | :--- | :--- |
-> | 📋 **Board** | Kreston Gestão de Tarefas |
+> | ⚙️ **Empresa** | **SAE — Systemic Automation Engineering** |
+> | 📋 **Board** | Gestão de Tarefas SAE |
 > | 🟢 **Status** | Sincronizado em Tempo Real |
 > | 👥 **Equipe** | Gabriel & Muriel |
-> | ⚡ **Motor** | Trello Live Embed |
 
 ---
 
 > [!NOTE] 🌐 **System Navigation**
-> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel]] • [[1. Projects/kreston/kreston-kanban\|📋 Kanban]] • [🔗 Abrir no Trello](https://trello.com/b/Db9zGRvX/kreston-gest%C3%A3o-de-tarefas)
+> [[HOME\|🏠 Home]] • [[1. Projects/kreston/kreston.README\|🚗 SAE Overview]] • [[1. Projects/kreston/kreston-muriel\|🎨 Muriel Board]] • [[1. Projects/kreston/kreston-gabriel\|⚡ Gabriel Board]] • [[1. Projects/kreston/kreston-kanban\|📋 Monday Kanban]] • [🔗 Abrir no Trello](https://trello.com/b/Db9zGRvX/kreston-gest%C3%A3o-de-tarefas)
 
 ---
 
@@ -27,14 +29,14 @@
 
 ---
 
-## 📋 Backup Offline das Colunas
+## 📋 Backup Offline das Colunas SAE
 
 ### 📥 Backlog
 
 | Tarefa | Esforço | Responsável | Status |
 | :--- | :---: | :---: | :---: |
 | Treinamento de abordagem Direct / WhatsApp | `⏱️ 4h` | 👥 Equipe | 🔴 Backlog |
-| Modelo AIDA para anúncios OLX | `⏱️ 3h` | 🎨 Muriel | 🔴 Backlog |
+| Modelo AIDA para anúncios de conversão | `⏱️ 3h` | 🎨 Muriel | 🔴 Backlog |
 | 3 Reels semanais com comparativos | `⏱️ 6h` | 🎨 Muriel | 🔴 Backlog |
 
 ---
@@ -43,10 +45,10 @@
 
 | Tarefa | Esforço | Responsável | Status |
 | :--- | :---: | :---: | :---: |
-| Auditoria perfis sociais e linha editorial | `⏱️ 2h` | 🎨 Muriel | 🟡 A Fazer |
-| Checklist de ângulos padrão de fotos | `⏱️ 2h` | 🎨 Muriel | 🟡 A Fazer |
+| Auditoria de perfis sociais e linha editorial | `⏱️ 2h` | 🎨 Muriel | 🟡 A Fazer |
+| Checklist de padronização visual de fotos | `⏱️ 2h` | 🎨 Muriel | 🟡 A Fazer |
 | Fluxo de conversa do robô WhatsApp | `⏱️ 4h` | ⚡ Gabriel | 🟡 A Fazer |
-| Agendamento automático test-drive | `⏱️ 3h` | ⚡ Gabriel | 🟡 A Fazer |
+| Agendamento automático sistêmico | `⏱️ 3h` | ⚡ Gabriel | 🟡 A Fazer |
 
 ---
 
@@ -57,7 +59,7 @@
 | Tarefa | Esforço | Responsável | Status |
 | :--- | :---: | :---: | :---: |
 | Conexão da API WhatsApp com 99Motors | `⏱️ 8h` | ⚡ Gabriel | 🔵 Em Andamento |
-| Kit de Templates Canva / Figma | `⏱️ 6h` | 🎨 Muriel | 🔵 Em Andamento |
+| Kit de Templates Canva / Figma SAE | `⏱️ 6h` | 🎨 Muriel | 🔵 Em Andamento |
 | KPIs e Dashboard Looker Studio | `⏱️ 3h` | ⚡ Gabriel | 🔵 Em Andamento |
 
 ---
@@ -66,7 +68,7 @@
 
 | Tarefa | Responsável | Status |
 | :--- | :---: | :---: |
-| Estrutura de pastas Kreston no Obsidian | 🤖 AI | 🟢 Concluído |
+| Estrutura de pastas SAE no Obsidian | 🤖 AI | 🟢 Concluído |
 | Planos de ação Muriel e Gabriel | 🤖 AI | 🟢 Concluído |
-| Ontologia Zettelkasten e Literature Map | 🤖 AI | 🟢 Concluído |
+| Identidade Oficial SAE (Systemic Automation Engineering) | 👥 Equipe | 🟢 Concluído |
 | Quadro Trello sincronizado ao vivo | 👥 Equipe | 🟢 Concluído |
