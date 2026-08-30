@@ -3,7 +3,7 @@
 ---
 
 
-![SAE Logo](/img/user/sae-logo.jpg)
+![SAE Logo](/img/user/sae-logo-white.png)
 
 # 🎨 Muriel Work Board — Branding, Mídia & Leads
 

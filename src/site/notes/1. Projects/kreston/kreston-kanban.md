@@ -3,7 +3,7 @@
 ---
 
 
-![SAE Logo](/img/user/sae-logo.jpg)
+![SAE Logo](/img/user/sae-logo-white.png)
 
 # 📋 Monday Kanban — Quadro Interativo SAE
 

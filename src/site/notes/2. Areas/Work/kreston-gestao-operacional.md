@@ -3,7 +3,7 @@
 ---
 
 
-![SAE Logo](/img/user/sae-logo.jpg)
+![SAE Logo](/img/user/sae-logo-white.png)
 
 # 🏢 Gestão Operacional — SAE (Systemic Automation Engineering)
 
