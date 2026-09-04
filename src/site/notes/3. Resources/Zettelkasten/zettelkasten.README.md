@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/zettelkasten-readme/","tags":["type/structure","structure/readme","theme/zettelkasten"],"dg-note-properties":{"tags":["type/structure","structure/readme","theme/zettelkasten"],"aliases":["Zettelkasten Index","Índice Zettelkasten"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["type/structure","structure/readme","theme/zettelkasten"],"aliases":["Zettelkasten Index","Índice Zettelkasten"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/3-resources/zettelkasten/zettelkasten-readme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["type/structure","structure/readme","theme/zettelkasten"],"aliases":["Zettelkasten Index","Índice Zettelkasten"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 

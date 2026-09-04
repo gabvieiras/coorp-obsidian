@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/readme/","tags":["area/readme"],"dg-note-properties":{"tags":["area/readme"],"aliases":["Areas Index","Índice de Áreas"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["area/readme"],"aliases":["Areas Index","Índice de Áreas"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/2-areas/readme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["area/readme"],"aliases":["Areas Index","Índice de Áreas"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 

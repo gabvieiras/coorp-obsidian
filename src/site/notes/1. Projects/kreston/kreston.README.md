@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-readme/","tags":["project/sae","sae/overview"],"dg-note-properties":{"tags":["project/sae","sae/overview"],"aliases":["SAE Project","Visão Geral SAE","Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"tags":["project/sae","sae/overview"],"aliases":["SAE Project","Visão Geral SAE","Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/1-projects/kreston/kreston-readme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/sae","sae/overview"],"aliases":["SAE Project","Visão Geral SAE","Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 

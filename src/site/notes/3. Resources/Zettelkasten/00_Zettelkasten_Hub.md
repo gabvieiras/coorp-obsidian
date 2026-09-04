@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/00-zettelkasten-hub/","tags":["type/structure","structure/moc","target/zettelkasten"],"dg-note-properties":{"tags":["type/structure","structure/moc","target/zettelkasten"],"aliases":["Zettelkasten Hub"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["type/structure","structure/moc","target/zettelkasten"],"aliases":["Zettelkasten Hub"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/3-resources/zettelkasten/00-zettelkasten-hub/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["type/structure","structure/moc","target/zettelkasten"],"aliases":["Zettelkasten Hub"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 

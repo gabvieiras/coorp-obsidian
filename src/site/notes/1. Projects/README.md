@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/readme/","tags":["project/readme"],"dg-note-properties":{"tags":["project/readme"],"aliases":["Projects Index","Índice de Projetos"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["project/readme"],"aliases":["Projects Index","Índice de Projetos"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/1-projects/readme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/readme"],"aliases":["Projects Index","Índice de Projetos"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 

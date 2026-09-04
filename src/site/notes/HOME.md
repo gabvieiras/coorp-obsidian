@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["home","workspace","sae","gardenEntry"],"dg-note-properties":{"tags":["home","workspace","sae","gardenEntry"],"aliases":["Home OS","SAE Executive Workspace","SAE Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"dg-home":true,"tags":["home","workspace","sae","gardenEntry"],"aliases":["Home OS","SAE Executive Workspace","SAE Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/home/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["home","workspace","sae","gardenEntry"],"aliases":["Home OS","SAE Executive Workspace","SAE Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 

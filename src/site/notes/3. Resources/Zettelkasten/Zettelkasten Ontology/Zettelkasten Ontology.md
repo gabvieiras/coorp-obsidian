@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/zettelkasten-ontology/zettelkasten-ontology/","tags":["type/structure","structure/ontology","theme/zettelkasten"],"dg-note-properties":{"tags":["type/structure","structure/ontology","theme/zettelkasten"],"aliases":["Zettelkasten Ontology"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["type/structure","structure/ontology","theme/zettelkasten"],"aliases":["Zettelkasten Ontology"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/3-resources/zettelkasten/zettelkasten-ontology/zettelkasten-ontology/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["type/structure","structure/ontology","theme/zettelkasten"],"aliases":["Zettelkasten Ontology"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 

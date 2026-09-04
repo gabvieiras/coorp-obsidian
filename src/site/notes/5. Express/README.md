@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-express/readme/","tags":["express/readme"],"dg-note-properties":{"tags":["express/readme"],"aliases":["Express Index","Central de Publicações"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["express/readme"],"aliases":["Express Index","Central de Publicações"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/5-express/readme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["express/readme"],"aliases":["Express Index","Central de Publicações"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 

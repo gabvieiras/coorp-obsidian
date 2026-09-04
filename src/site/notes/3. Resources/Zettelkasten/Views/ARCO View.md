@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/views/arco-view/","tags":["type/structure","structure/view","theme/zettelkasten"],"dg-note-properties":{"tags":["type/structure","structure/view","theme/zettelkasten"],"aliases":["ARCO View"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["type/structure","structure/view","theme/zettelkasten"],"aliases":["ARCO View"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/3-resources/zettelkasten/views/arco-view/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["type/structure","structure/view","theme/zettelkasten"],"aliases":["ARCO View"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 

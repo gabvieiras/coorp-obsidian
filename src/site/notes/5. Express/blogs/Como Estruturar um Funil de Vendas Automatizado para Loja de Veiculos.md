@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-express/blogs/como-estruturar-um-funil-de-vendas-automatizado-para-loja-de-veiculos/","tags":["express/blog","kreston/article"],"dg-note-properties":{"tags":["express/blog","kreston/article"],"aliases":["Artigo Funil de Vendas"],"created":"2026-08-27","modified":"2026-08-27","lead":"Case da empresa Kreston sobre branding + automação WhatsApp."}}
+{"dg-publish":true,"tags":["express/blog","kreston/article"],"aliases":["Artigo Funil de Vendas"],"created":"2026-08-27","modified":"2026-08-27","lead":"Case da empresa Kreston sobre branding + automação WhatsApp.","permalink":"/5-express/blogs/como-estruturar-um-funil-de-vendas-automatizado-para-loja-de-veiculos/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["express/blog","kreston/article"],"aliases":["Artigo Funil de Vendas"],"created":"2026-08-27","modified":"2026-08-27","lead":"Case da empresa Kreston sobre branding + automação WhatsApp."}}
 ---
 
 

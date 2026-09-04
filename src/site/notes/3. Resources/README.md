@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/readme/","tags":["resource/readme"],"dg-note-properties":{"tags":["resource/readme"],"aliases":["Resources Index","Índice de Recursos"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["resource/readme"],"aliases":["Resources Index","Índice de Recursos"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/3-resources/readme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["resource/readme"],"aliases":["Resources Index","Índice de Recursos"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 

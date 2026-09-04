@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/permanent/padronizacao-visual-como-fator-de-confianca-na-venda-de-veiculos/","tags":["type/note","theme/kreston","theme/branding"],"dg-note-properties":{"tags":["type/note","theme/kreston","theme/branding"],"aliases":["Padronização Visual Kreston"],"created":"2026-08-26","modified":"2026-08-26","lead":"A padronização visual em fotos e vídeos de estoque gera percepção imediata de profissionalismo e reduz a desconfiança em compras de seminovos.","template_type":"Permanent"}}
+{"dg-publish":true,"tags":["type/note","theme/kreston","theme/branding"],"aliases":["Padronização Visual Kreston"],"created":"2026-08-26","modified":"2026-08-26","lead":"A padronização visual em fotos e vídeos de estoque gera percepção imediata de profissionalismo e reduz a desconfiança em compras de seminovos.","template_type":"Permanent","permalink":"/3-resources/zettelkasten/permanent/padronizacao-visual-como-fator-de-confianca-na-venda-de-veiculos/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["type/note","theme/kreston","theme/branding"],"aliases":["Padronização Visual Kreston"],"created":"2026-08-26","modified":"2026-08-26","lead":"A padronização visual em fotos e vídeos de estoque gera percepção imediata de profissionalismo e reduz a desconfiança em compras de seminovos.","template_type":"Permanent"}}
 ---
 
 

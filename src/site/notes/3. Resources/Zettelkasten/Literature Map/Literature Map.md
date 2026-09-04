@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/literature-map/literature-map/","tags":["type/structure","structure/map","theme/zettelkasten"],"dg-note-properties":{"tags":["type/structure","structure/map","theme/zettelkasten"],"aliases":["Literature Map"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["type/structure","structure/map","theme/zettelkasten"],"aliases":["Literature Map"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/3-resources/zettelkasten/literature-map/literature-map/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["type/structure","structure/map","theme/zettelkasten"],"aliases":["Literature Map"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 

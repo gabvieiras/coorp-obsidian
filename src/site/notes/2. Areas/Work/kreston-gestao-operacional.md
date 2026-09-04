@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/work/kreston-gestao-operacional/","tags":["area/work","sae/gestao"],"dg-note-properties":{"tags":["area/work","sae/gestao"],"aliases":["Gestão Operacional SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"tags":["area/work","sae/gestao"],"aliases":["Gestão Operacional SAE"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/2-areas/work/kreston-gestao-operacional/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["area/work","sae/gestao"],"aliases":["Gestão Operacional SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 

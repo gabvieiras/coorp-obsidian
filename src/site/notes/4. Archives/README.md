@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archives/readme/","tags":["archive/readme"],"dg-note-properties":{"tags":["archive/readme"],"aliases":["Archives Index","Arquivos Inativos"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["archive/readme"],"aliases":["Archives Index","Arquivos Inativos"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/4-archives/readme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["archive/readme"],"aliases":["Archives Index","Arquivos Inativos"],"created":"2026-08-27","modified":"2026-08-27"}}
 ---
 
 

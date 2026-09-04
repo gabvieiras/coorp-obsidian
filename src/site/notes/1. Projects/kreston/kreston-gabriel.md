@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-gabriel/","tags":["project/sae","sae/gabriel"],"dg-note-properties":{"tags":["project/sae","sae/gabriel"],"aliases":["Plano Gabriel - SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"tags":["project/sae","sae/gabriel"],"aliases":["Plano Gabriel - SAE"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/1-projects/kreston/kreston-gabriel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/sae","sae/gabriel"],"aliases":["Plano Gabriel - SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-kanban/","tags":["project/sae","sae/kanban"],"dg-note-properties":{"tags":["project/sae","sae/kanban"],"aliases":["Kanban SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"tags":["project/sae","sae/kanban"],"aliases":["Kanban SAE"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/1-projects/kreston/kreston-kanban/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/sae","sae/kanban"],"aliases":["Kanban SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 

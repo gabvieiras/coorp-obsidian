@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/permanent/atomicidade-de-notas-no-zettelkasten/","tags":["type/note","theme/zettelkasten"],"dg-note-properties":{"tags":["type/note","theme/zettelkasten"],"aliases":["Atomicidade de Notas"],"created":"2026-08-26","modified":"2026-08-26","lead":"O princípio da atomicidade exige que cada nota permanente expresse exatamente uma única ideia conceitual completa com suas próprias palavras.","template_type":"Permanent"}}
+{"dg-publish":true,"tags":["type/note","theme/zettelkasten"],"aliases":["Atomicidade de Notas"],"created":"2026-08-26","modified":"2026-08-26","lead":"O princípio da atomicidade exige que cada nota permanente expresse exatamente uma única ideia conceitual completa com suas próprias palavras.","template_type":"Permanent","permalink":"/3-resources/zettelkasten/permanent/atomicidade-de-notas-no-zettelkasten/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["type/note","theme/zettelkasten"],"aliases":["Atomicidade de Notas"],"created":"2026-08-26","modified":"2026-08-26","lead":"O princípio da atomicidade exige que cada nota permanente expresse exatamente uma única ideia conceitual completa com suas próprias palavras.","template_type":"Permanent"}}
 ---
 
 

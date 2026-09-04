@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/kreston/kreston-muriel/","tags":["project/sae","sae/muriel"],"dg-note-properties":{"tags":["project/sae","sae/muriel"],"aliases":["Plano Muriel - SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"tags":["project/sae","sae/muriel"],"aliases":["Plano Muriel - SAE"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/1-projects/kreston/kreston-muriel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/sae","sae/muriel"],"aliases":["Plano Muriel - SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 

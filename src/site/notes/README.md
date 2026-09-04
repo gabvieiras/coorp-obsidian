@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["readme","sae"],"dg-note-properties":{"tags":["readme","sae"],"aliases":["Vault README","SAE Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"dg-home":false,"tags":["readme","sae"],"aliases":["Vault README","SAE Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/readme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["readme","sae"],"aliases":["Vault README","SAE Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30"}}
 ---
 
 
