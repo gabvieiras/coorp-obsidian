@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["type/structure","structure/moc","target/zettelkasten"],"aliases":["Zettelkasten Hub"],"created":"2026-08-27","modified":"2026-08-27","permalink":"/3-resources/zettelkasten/00-zettelkasten-hub/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["type/structure","structure/moc","target/zettelkasten"],"aliases":["Zettelkasten Hub"],"created":"2026-08-27","modified":"2026-08-27"}}
+{"dg-publish":true,"tags":["type/structure","structure/moc","target/zettelkasten"],"aliases":["Zettelkasten Hub"],"created":"2026-08-30","modified":"2026-09-04","permalink":"/3-resources/zettelkasten/00-zettelkasten-hub/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["type/structure","structure/moc","target/zettelkasten"],"aliases":["Zettelkasten Hub"],"created":"2026-08-30","modified":"2026-09-04"}}
 ---
 
 
@@ -21,33 +21,53 @@
 
 ---
 
-## 🗺️ Módulos do Knowledge Engine
-
-| # | Componente | Tipo | Descrição | Acesso |
-| :---: | :--- | :---: | :--- | :--- |
-| 1 | **Literature Map** | 🗺️ Map | Pipeline de destilação de leituras em notas | [[3. Resources/Zettelkasten/Literature Map/Literature Map\|Abrir →]] |
-| 2 | **Zettelkasten Ontology** | 🏗️ Ontology | Taxonomia formal das 5 camadas | [[3. Resources/Zettelkasten/Zettelkasten Ontology/Zettelkasten Ontology\|Abrir →]] |
-| 3 | **ARCO View** | 🧭 Framework | Atlas, Reference, Calendar, Organizer | [[3. Resources/Zettelkasten/Views/ARCO View\|Abrir →]] |
-| 4 | **Inspect View** | 📊 Analytics | Vault health e métricas de crescimento | [[3. Resources/Zettelkasten/Views/Inspect View\|Abrir →]] |
-
----
-
-## 📚 Notas Recentes (Dataview)
-
-| Nota Zettelkasten                                                                                                                                                           | Camada     | Criado          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- |
-| [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|00_Zettelkasten_Hub]]                                                                                                   | \-         | August 27, 2026 |
-| [[3. Resources/Zettelkasten/Guides/1_Fleeting Notes Guide\|1_Fleeting Notes Guide]]                                                                                      | Structure  | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Guides/2_Literature Notes Guide\|2_Literature Notes Guide]]                                                                                  | Structure  | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Guides/3_Permanent Notes Guide\|3_Permanent Notes Guide]]                                                                                    | Structure  | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Guides/4_Project Notes Guide\|4_Project Notes Guide]]                                                                                        | Structure  | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Guides/5_Structure Notes Guide\|5_Structure Notes Guide]]                                                                                    | Structure  | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Views/ARCO View\|ARCO View]]                                                                                                                 | \-         | August 27, 2026 |
-| [[3. Resources/Zettelkasten/Permanent/Atomicidade de Notas no Zettelkasten\|Atomicidade de Notas no Zettelkasten]]                                                       | Permanent  | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Permanent/Funil de Conversao Automatica via WhatsApp para Concessionarias\|Funil de Conversao Automatica via WhatsApp para Concessionarias]] | Permanent  | August 26, 2026 |
-| [[3. Resources/Zettelkasten/Literature/Guia - Automacao de Vendas e Lead Scoring para Veiculos\|Guia - Automacao de Vendas e Lead Scoring para Veiculos]]                | Literature | August 26, 2026 |
-
-{ .block-language-dataview}
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>🗺️ Módulos do Knowledge Engine</h3>
+    <span class="sae-status-pill green">🟢 Ativo</span>
+  </div>
+  <table class="sae-modern-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Componente</th>
+        <th>Tipo</th>
+        <th>Descrição</th>
+        <th style="text-align: center;">Acesso</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>1</strong></td>
+        <td><strong>Literature Map</strong></td>
+        <td>🗺️ Map</td>
+        <td>Pipeline de destilação de leituras em notas</td>
+        <td style="text-align: center;"><a href="Literature Map" class="sae-action-btn">Abrir Mapa ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>2</strong></td>
+        <td><strong>Zettelkasten Ontology</strong></td>
+        <td>🏗️ Ontology</td>
+        <td>Taxonomia formal das 5 camadas</td>
+        <td style="text-align: center;"><a href="Zettelkasten Ontology" class="sae-action-btn">Abrir Ontologia ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>3</strong></td>
+        <td><strong>ARCO View</strong></td>
+        <td>🧭 Framework</td>
+        <td>Atlas, Reference, Calendar, Organizer</td>
+        <td style="text-align: center;"><a href="ARCO View" class="sae-action-btn">Abrir ARCO ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>4</strong></td>
+        <td><strong>Inspect View</strong></td>
+        <td>📊 Analytics</td>
+        <td>Vault health e métricas de crescimento</td>
+        <td style="text-align: center;"><a href="Inspect View" class="sae-action-btn">Abrir Analytics ➔</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -55,4 +75,6 @@
 > 1. **Capture** — Anote insights brutos em Fleeting Notes
 > 2. **Destile** — Reescreva com suas palavras em Literature Notes
 > 3. **Sintetize** — Crie Permanent Notes com uma ideia por nota
-> 4. **Conecte** — Vincule aos projetos da Kreston para aplicação prática
+> 4. **Conecte** — Vincule aos projetos da SAE para aplicação prática
+
+---

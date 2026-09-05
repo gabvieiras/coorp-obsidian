@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["project/sae","sae/gabriel"],"aliases":["Plano Gabriel - SAE"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/1-projects/kreston/kreston-gabriel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/sae","sae/gabriel"],"aliases":["Plano Gabriel - SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"tags":["project/sae","sae/gabriel"],"aliases":["Plano Gabriel - SAE"],"created":"2026-08-30","modified":"2026-09-04","permalink":"/1-projects/kreston/kreston-gabriel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/sae","sae/gabriel"],"aliases":["Plano Gabriel - SAE"],"created":"2026-08-30","modified":"2026-09-04"}}
 ---
 
 
@@ -24,51 +24,58 @@
 
 ---
 
-## 📌 Data Tables — Gabriel Work Boards
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>🤖 1 · Automação de Atendimento &amp; Bot (99Motors)</h3>
+    <span class="sae-status-pill blue">🔵 Sprint Ativa</span>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Item / Tarefa</th><th>Status</th><th>Esforço</th><th>Prioridade</th></tr></thead>
+    <tbody>
+      <tr><td>Mapeamento do fluxo de conversa do robô</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 4h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Conexão da API do WhatsApp com 99Motors</td><td><span class="sae-status-pill blue">🔵 Em Andamento</span></td><td><span class="sae-effort-chip">⏱️ 8h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Resposta automática com envio de fotos/fichas</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 6h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Transição inteligente para atendente humano</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 4h</span></td><td>⚡ Média</td></tr>
+      <tr><td>Testes de carga e validação dos fluxos</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>⚡ Média</td></tr>
+    </tbody>
+  </table>
+</div>
 
-### 🤖 1 · Automação de Atendimento & Bot (99Motors)
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>📊 2 · Relatório Mensal Automatizado &amp; BI</h3>
+    <span class="sae-status-pill blue">🔵 Sprint Ativa</span>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Item / Tarefa</th><th>Status</th><th>Esforço</th><th>Prioridade</th></tr></thead>
+    <tbody>
+      <tr><td>Definição dos KPIs (CPL, ROI, Vendas, Leads)</td><td><span class="sae-status-pill blue">🔵 Em Andamento</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Dashboard no Looker Studio / Metabase</td><td><span class="sae-status-pill blue">🔵 Em Andamento</span></td><td><span class="sae-effort-chip">⏱️ 6h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Automação de extração dos dados Meta / WhatsApp</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 4h</span></td><td>⚡ Média</td></tr>
+      <tr><td>Envio automático do relatório por e-mail</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>📌 Normal</td></tr>
+    </tbody>
+  </table>
+</div>
 
-> [!TIP] 💡 **Engenharia de Automação SAE**
-> Resposta automática de leads via WhatsApp: envio de fotos, ficha técnica e agendamento em menos de 5 segundos com a inteligência do robô SAE.
-
-| Item / Tarefa | Status | Esforço | Prioridade |
-| :--- | :---: | :---: | :---: |
-| Mapeamento do fluxo de conversa do robô | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
-| Conexão da API do WhatsApp com 99Motors | 🔵 Em Andamento | `⏱️ 8h` | 🔥 Alta |
-| Resposta automática com envio de fotos/fichas | 🟡 A Fazer | `⏱️ 6h` | 🔥 Alta |
-| Transição inteligente para atendente humano | 🟡 A Fazer | `⏱️ 4h` | ⚡ Média |
-| Testes de carga e validação dos fluxos | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
-
----
-
-### 📊 2 · Relatório Mensal Automatizado & BI
-
-> [!TIP] 💡 **BI & Analytics SAE**
-> Dashboard centralizado no Looker Studio / Metabase conectado ao Meta Ads e WhatsApp para acompanhamento em tempo real de CPL, ROI e conversões.
-
-| Item / Tarefa | Status | Esforço | Prioridade |
-| :--- | :---: | :---: | :---: |
-| Definição dos KPIs (CPL, ROI, Vendas, Leads) | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
-| Dashboard no Looker Studio / Metabase | 🔵 Em Andamento | `⏱️ 6h` | 🔥 Alta |
-| Automação de extração dos dados Meta / WhatsApp | 🟡 A Fazer | `⏱️ 4h` | ⚡ Média |
-| Envio automático do relatório por e-mail | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
-
----
-
-### 📅 3 · Agendamento Automático Sistêmico
-
-> [!TIP] 💡 **Agendamento Sem Fricção**
-> Integração de formulários de agendamento automático com disparo de lembretes via WhatsApp (24h e 2h antes).
-
-| Item / Tarefa | Status | Esforço | Prioridade |
-| :--- | :---: | :---: | :---: |
-| Plataforma de agendamento (Cal.com / Calendly) | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
-| Link de agendamento no bot e Bio Instagram | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
-| Disparo de lembrete WhatsApp (24h e 2h antes) | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
-| Confirmação / Reagendamento automático | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>📅 3 · Agendamento Automático Sistêmico</h3>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Item / Tarefa</th><th>Status</th><th>Esforço</th><th>Prioridade</th></tr></thead>
+    <tbody>
+      <tr><td>Plataforma de agendamento (Cal.com / Calendly)</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Link de agendamento no bot e Bio Instagram</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>⚡ Média</td></tr>
+      <tr><td>Disparo de lembrete WhatsApp (24h e 2h antes)</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 4h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Confirmação / Reagendamento automático</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>⚡ Média</td></tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
 > [!SUCCESS] ✅ **Resumo de Progresso Gabriel**
 > - 🔵 **Em Andamento**: 3 tarefas ativas (API WhatsApp, KPIs, Dashboard)
 > - 🟡 **A Fazer**: 9 tarefas na fila
+
+---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["area/work","sae/gestao"],"aliases":["Gestão Operacional SAE"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/2-areas/work/kreston-gestao-operacional/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["area/work","sae/gestao"],"aliases":["Gestão Operacional SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"tags":["area/work","sae/gestao"],"aliases":["Gestão Operacional SAE"],"created":"2026-08-30","modified":"2026-09-04","permalink":"/2-areas/work/kreston-gestao-operacional/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["area/work","sae/gestao"],"aliases":["Gestão Operacional SAE"],"created":"2026-08-30","modified":"2026-09-04"}}
 ---
 
 
@@ -23,31 +23,40 @@
 
 ---
 
-## 📋 Processos Operacionais SAE
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>📋 Processos Operacionais SAE</h3>
+    <span class="sae-status-pill green">🟢 Operações Ativas</span>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Processo</th><th>Frequência</th><th>Responsável</th><th>Status</th></tr></thead>
+    <tbody>
+      <tr><td>Checkin de recebimento e catálogo</td><td>📅 Diário</td><td>👥 Equipe</td><td><span class="sae-status-pill green">🟢 Ativo</span></td></tr>
+      <tr><td>Publicação de anúncios e mídias de vendas</td><td>📅 Diário</td><td>🎨 Muriel</td><td><span class="sae-status-pill green">🟢 Ativo</span></td></tr>
+      <tr><td>Resposta de leads WhatsApp Bot SAE (&lt; 5s)</td><td>📅 Diário</td><td>⚡ Gabriel (Bot)</td><td><span class="sae-status-pill blue">🔵 Implementando</span></td></tr>
+      <tr><td>Relatório de desempenho semanal BI</td><td>📅 Semanal</td><td>⚡ Gabriel</td><td><span class="sae-status-pill blue">🟡 A Configurar</span></td></tr>
+      <tr><td>Revisão de portfólio e precificação</td><td>📅 Semanal</td><td>👥 Equipe</td><td><span class="sae-status-pill green">🟢 Ativo</span></td></tr>
+      <tr><td>Análise de ROI tráfego pago Meta</td><td>📅 Mensal</td><td>⚡ Gabriel</td><td><span class="sae-status-pill blue">🟡 A Configurar</span></td></tr>
+    </tbody>
+  </table>
+</div>
 
-| Processo | Frequência | Responsável | Status |
-| :--- | :---: | :---: | :---: |
-| Checkin de recebimento e catálogo | 📅 Diário | 👥 Equipe | 🟢 Ativo |
-| Publicação de anúncios e mídias de vendas | 📅 Diário | 🎨 Muriel | 🟢 Ativo |
-| Resposta de leads WhatsApp Bot SAE (< 5s) | 📅 Diário | ⚡ Gabriel (Bot) | 🔵 Implementando |
-| Relatório de desempenho semanal BI | 📅 Semanal | ⚡ Gabriel | 🟡 A Configurar |
-| Revisão de portfólio e precificação | 📅 Semanal | 👥 Equipe | 🟢 Ativo |
-| Análise de ROI tráfego pago Meta | 📅 Mensal | ⚡ Gabriel | 🟡 A Configurar |
-
----
-
-## 📊 KPIs Operacionais SAE
-
-> [!EXAMPLE] 📈 **Métricas de Engenharia**
-> Os KPIs abaixo estão sendo configurados no Looker Studio para acompanhamento em tempo real.
-
-| KPI | Meta | Atual | Status |
-| :--- | :---: | :---: | :---: |
-| Tempo de resposta Bot WhatsApp | < 5 seg | — | 🔵 Implementando |
-| Anúncios publicados / semana | ≥ 5 | — | 🟡 Baseline |
-| CPL (Custo por Lead) | < R$15 | — | 🟡 A Medir |
-| ROI Semanal de Tráfego | > 3x | — | 🟡 A Medir |
-| Taxa de Agendamento Sistêmico | > 20% | — | 🟡 A Medir |
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>📊 KPIs Operacionais SAE</h3>
+    <span class="sae-status-pill blue">🔵 Em Configuração</span>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>KPI</th><th>Meta</th><th>Atual</th><th>Status</th></tr></thead>
+    <tbody>
+      <tr><td>Tempo de resposta Bot WhatsApp</td><td>&lt; 5 seg</td><td>—</td><td><span class="sae-status-pill blue">🔵 Implementando</span></td></tr>
+      <tr><td>Anúncios publicados / semana</td><td>≥ 5</td><td>—</td><td><span class="sae-status-pill blue">🟡 Baseline</span></td></tr>
+      <tr><td>CPL (Custo por Lead)</td><td>&lt; R$15</td><td>—</td><td><span class="sae-status-pill blue">🟡 A Medir</span></td></tr>
+      <tr><td>ROI Semanal de Tráfego</td><td>&gt; 3x</td><td>—</td><td><span class="sae-status-pill blue">🟡 A Medir</span></td></tr>
+      <tr><td>Taxa de Agendamento Sistêmico</td><td>&gt; 20%</td><td>—</td><td><span class="sae-status-pill blue">🟡 A Medir</span></td></tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -56,3 +65,5 @@
 > 🎨 [[1. Projects/kreston/kreston-muriel\|Board Muriel →]]
 > ⚡ [[1. Projects/kreston/kreston-gabriel\|Board Gabriel →]]
 > 📋 [[1. Projects/kreston/kreston-kanban\|Kanban Trello →]]
+
+---

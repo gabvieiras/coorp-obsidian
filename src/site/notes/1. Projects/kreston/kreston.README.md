@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["project/sae","sae/overview"],"aliases":["SAE Project","Visão Geral SAE","Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/1-projects/kreston/kreston-readme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/sae","sae/overview"],"aliases":["SAE Project","Visão Geral SAE","Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"tags":["project/sae","sae/overview"],"aliases":["SAE Project","Visão Geral SAE","Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-09-04","permalink":"/1-projects/kreston/kreston-readme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/sae","sae/overview"],"aliases":["SAE Project","Visão Geral SAE","Systemic Automation Engineering"],"created":"2026-08-30","modified":"2026-09-04"}}
 ---
 
 
@@ -25,13 +25,50 @@
 
 ---
 
-## 👥 Frentes de Trabalho (Engenharia SAE)
-
-| # | Frente | Responsável | Status | Entregáveis Principais | Board |
-| :---: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **Branding & Mídia** | 🎨 Muriel | 🔵 Em Andamento | Identity, Fotos, Vídeos, Copywriting, Funil | [[1. Projects/kreston/kreston-muriel\|Abrir →]] |
-| 2 | **Automações & BI** | ⚡ Gabriel | 🔵 Em Andamento | Bot WhatsApp 24/7, BI Looker Studio, Agenda | [[1. Projects/kreston/kreston-gabriel\|Abrir →]] |
-| 3 | **Kanban Ao Vivo** | 👥 Equipe | 🟢 Sync | Gestão de tarefas em tempo real | [[1. Projects/kreston/kreston-kanban\|Abrir →]] |
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>👥 Frentes de Trabalho — Engenharia SAE</h3>
+    <span class="sae-status-pill green">🟢 Painel Ativo</span>
+  </div>
+  <table class="sae-modern-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Frente</th>
+        <th>Responsável</th>
+        <th>Status</th>
+        <th>Entregáveis Principais</th>
+        <th style="text-align: center;">Board</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>1</strong></td>
+        <td><strong>Branding &amp; Mídia</strong></td>
+        <td>🎨 Muriel</td>
+        <td><span class="sae-status-pill blue">🔵 Em Andamento</span></td>
+        <td>Identity, Fotos, Vídeos, Copywriting, Funil</td>
+        <td style="text-align: center;"><a href="kreston-muriel" class="sae-action-btn">Abrir Board ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>2</strong></td>
+        <td><strong>Automações &amp; BI</strong></td>
+        <td>⚡ Gabriel</td>
+        <td><span class="sae-status-pill blue">🔵 Em Andamento</span></td>
+        <td>Bot WhatsApp 24/7, BI Looker Studio, Agenda</td>
+        <td style="text-align: center;"><a href="kreston-gabriel" class="sae-action-btn">Abrir Board ➔</a></td>
+      </tr>
+      <tr>
+        <td><strong>3</strong></td>
+        <td><strong>Kanban Ao Vivo</strong></td>
+        <td>👥 Equipe</td>
+        <td><span class="sae-status-pill green">🟢 Sincronizado</span></td>
+        <td>Gestão de tarefas em tempo real</td>
+        <td style="text-align: center;"><a href="kreston-kanban" class="sae-action-btn">Abrir Kanban ➔</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -58,17 +95,3 @@
 > 🧠 [[3. Resources/Zettelkasten/00_Zettelkasten_Hub\|Engine de Conhecimento Zettelkasten →]]
 
 ---
-
-## 📋 Lista de Tarefas (LifeOS Query)
-
-```LifeOS
-TaskListByTag
-```
-
----
-
-## 📂 Arquivos do Projeto (LifeOS Query)
-
-```LifeOS
-FileListByTag
-```

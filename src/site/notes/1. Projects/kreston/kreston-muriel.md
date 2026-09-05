@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["project/sae","sae/muriel"],"aliases":["Plano Muriel - SAE"],"created":"2026-08-30","modified":"2026-08-30","permalink":"/1-projects/kreston/kreston-muriel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/sae","sae/muriel"],"aliases":["Plano Muriel - SAE"],"created":"2026-08-30","modified":"2026-08-30"}}
+{"dg-publish":true,"tags":["project/sae","sae/muriel"],"aliases":["Plano Muriel - SAE"],"created":"2026-08-30","modified":"2026-09-04","permalink":"/1-projects/kreston/kreston-muriel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["project/sae","sae/muriel"],"aliases":["Plano Muriel - SAE"],"created":"2026-08-30","modified":"2026-09-04"}}
 ---
 
 
@@ -24,84 +24,114 @@
 
 ---
 
-## 📌 Data Tables — Muriel Work Boards
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>📸 1 · Instagram &amp; Facebook — Presença Digital</h3>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Item / Tarefa</th><th>Status</th><th>Esforço</th><th>Prioridade</th></tr></thead>
+    <tbody>
+      <tr><td>Definição de paleta de cores e identidade visual</td><td><span class="sae-status-pill blue">🔵 Em Andamento</span></td><td><span class="sae-effort-chip">⏱️ 4h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Criação de bio otimizada com CTA + link Linktree</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Grid de feed com 9 posts inaugurais</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 6h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Destaques fixos: Estoque, Depoimentos, Bastidores</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>⚡ Média</td></tr>
+      <tr><td>Publicação de 3 posts semanais (mínimo)</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 4h/sem</span></td><td>🔥 Alta</td></tr>
+    </tbody>
+  </table>
+</div>
 
-### 📸 1 · Instagram & Facebook — Presença Digital
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>📐 2 · Padronização Visual &amp; Mídia</h3>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Item / Tarefa</th><th>Status</th><th>Esforço</th><th>Prioridade</th></tr></thead>
+    <tbody>
+      <tr><td>Checklist de 12 ângulos obrigatórios por produto</td><td><span class="sae-status-pill blue">🔵 Em Andamento</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Setup de cenário: fundo limpo, iluminação LED</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 4h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Presets de edição Lightroom / VSCO</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>⚡ Média</td></tr>
+      <tr><td>Marca d'água e assinatura visual SAE</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 1h</span></td><td>📌 Normal</td></tr>
+    </tbody>
+  </table>
+</div>
 
-| Item / Tarefa | Status | Esforço | Prioridade |
-| :--- | :---: | :---: | :---: |
-| Definição de paleta de cores e identidade visual | 🔵 Em Andamento | `⏱️ 4h` | 🔥 Alta |
-| Criação de bio otimizada com CTA + link Linktree | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
-| Grid de feed com 9 posts inaugurais | 🟡 A Fazer | `⏱️ 6h` | 🔥 Alta |
-| Destaques fixos: Estoque, Depoimentos, Bastidores | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
-| Publicação de 3 posts semanais (mínimo) | 🟡 A Fazer | `⏱️ 4h/sem` | 🔥 Alta |
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>🎬 3 · Walkarounds &amp; Vídeos Demonstrativos</h3>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Item / Tarefa</th><th>Status</th><th>Esforço</th><th>Prioridade</th></tr></thead>
+    <tbody>
+      <tr><td>Roteiro de narração padrão (30s–60s)</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Captura de vídeos demonstrativos em estoque</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 1h/item</span></td><td>⚡ Média</td></tr>
+      <tr><td>Trilha sonora livre e legenda automática</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 1h</span></td><td>📌 Normal</td></tr>
+      <tr><td>Publicação cruzada: Reels + TikTok + Shorts</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>⚡ Média</td></tr>
+    </tbody>
+  </table>
+</div>
 
----
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>✍️ 4 · Copywriting &amp; Anúncios</h3>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Item / Tarefa</th><th>Status</th><th>Esforço</th><th>Prioridade</th></tr></thead>
+    <tbody>
+      <tr><td>Template AIDA para anúncios de conversão</td><td><span class="sae-status-pill blue">🔵 Em Andamento</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Template PAS para Stories e WhatsApp</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>⚡ Média</td></tr>
+      <tr><td>Banco de Copies prontos (10 variações)</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 4h</span></td><td>⚡ Média</td></tr>
+    </tbody>
+  </table>
+</div>
 
-### 📐 2 · Padronização Visual & Mídia
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>🔍 5 · SEO &amp; Marketplaces</h3>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Item / Tarefa</th><th>Status</th><th>Esforço</th><th>Prioridade</th></tr></thead>
+    <tbody>
+      <tr><td>Títulos SEO otimizados para plataformas de vendas</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Descrição estruturada com specs técnicas</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>⚡ Média</td></tr>
+      <tr><td>Teste A/B de títulos (2 variações)</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>📌 Normal</td></tr>
+    </tbody>
+  </table>
+</div>
 
-| Item / Tarefa | Status | Esforço | Prioridade |
-| :--- | :---: | :---: | :---: |
-| Checklist de 12 ângulos obrigatórios por produto | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
-| Setup de cenário: fundo limpo, iluminação LED | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
-| Presets de edição Lightroom / VSCO | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
-| Marca d'água e assinatura visual SAE | 🟡 A Fazer | `⏱️ 1h` | 📌 Normal |
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>📢 6 · Meta Ads &amp; Tráfego Pago</h3>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Item / Tarefa</th><th>Status</th><th>Esforço</th><th>Prioridade</th></tr></thead>
+    <tbody>
+      <tr><td>Estrutura de campanhas: Topo, Meio e Fundo</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 4h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Criativo carrossel de ofertas da semana</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Público lookalike + retargeting de visitantes</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>⚡ Média</td></tr>
+      <tr><td>Orçamento de teste: R$30/dia × 14 dias</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 1h</span></td><td>📌 Normal</td></tr>
+    </tbody>
+  </table>
+</div>
 
----
-
-### 🎬 3 · Walkarounds & Vídeos Demonstrativos
-
-| Item / Tarefa | Status | Esforço | Prioridade |
-| :--- | :---: | :---: | :---: |
-| Roteiro de narração padrão (30s–60s) | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
-| Captura de vídeos demonstrativos em estoque | 🟡 A Fazer | `⏱️ 1h/item` | ⚡ Média |
-| Trilha sonora livre e legenda automática | 🟡 A Fazer | `⏱️ 1h` | 📌 Normal |
-| Publicação cruzada: Reels + TikTok + Shorts | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
-
----
-
-### ✍️ 4 · Copywriting & Anúncios
-
-| Item / Tarefa | Status | Esforço | Prioridade |
-| :--- | :---: | :---: | :---: |
-| Template AIDA para anúncios de conversão | 🔵 Em Andamento | `⏱️ 3h` | 🔥 Alta |
-| Template PAS para Stories e WhatsApp | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
-| Banco de Copies prontos (10 variações) | 🟡 A Fazer | `⏱️ 4h` | ⚡ Média |
-
----
-
-### 🔍 5 · SEO & Marketplaces
-
-| Item / Tarefa | Status | Esforço | Prioridade |
-| :--- | :---: | :---: | :---: |
-| Títulos SEO otimizados para plataformas de vendas | 🟡 A Fazer | `⏱️ 2h` | 🔥 Alta |
-| Descrição estruturada com specs técnicas | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
-| Teste A/B de títulos (2 variações) | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
-
----
-
-### 📢 6 · Meta Ads & Tráfego Pago
-
-| Item / Tarefa | Status | Esforço | Prioridade |
-| :--- | :---: | :---: | :---: |
-| Estrutura de campanhas: Topo, Meio e Fundo | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
-| Criativo carrossel de ofertas da semana | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
-| Público lookalike + retargeting de visitantes | 🟡 A Fazer | `⏱️ 2h` | ⚡ Média |
-| Orçamento de teste: R$30/dia × 14 dias | 🟡 A Fazer | `⏱️ 1h` | 📌 Normal |
-
----
-
-### 🎯 7 · Funil de Leads Automatizado
-
-| Item / Tarefa | Status | Esforço | Prioridade |
-| :--- | :---: | :---: | :---: |
-| Landing page com formulário (Typeform / Tally) | 🟡 A Fazer | `⏱️ 3h` | 🔥 Alta |
-| Automação: Lead → Bot SAE → Agendamento | 🟡 A Fazer | `⏱️ 4h` | 🔥 Alta |
-| Lead scoring (quente / morno / frio) | 🟡 A Fazer | `⏱️ 3h` | ⚡ Média |
-| CRM mínimo via Google Sheets ou Notion | 🟡 A Fazer | `⏱️ 2h` | 📌 Normal |
+<div class="sae-table-card">
+  <div class="sae-table-header-title">
+    <h3>🎯 7 · Funil de Leads Automatizado</h3>
+  </div>
+  <table class="sae-modern-table">
+    <thead><tr><th>Item / Tarefa</th><th>Status</th><th>Esforço</th><th>Prioridade</th></tr></thead>
+    <tbody>
+      <tr><td>Landing page com formulário (Typeform / Tally)</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Automação: Lead → Bot SAE → Agendamento</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 4h</span></td><td>🔥 Alta</td></tr>
+      <tr><td>Lead scoring (quente / morno / frio)</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 3h</span></td><td>⚡ Média</td></tr>
+      <tr><td>CRM mínimo via Google Sheets ou Notion</td><td><span class="sae-status-pill blue">🟡 A Fazer</span></td><td><span class="sae-effort-chip">⏱️ 2h</span></td><td>📌 Normal</td></tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
 > [!SUCCESS] ✅ **Resumo de Progresso Muriel**
 > - 🔵 **Em Andamento**: 3 tarefas ativas
 > - 🟡 **A Fazer**: 25 tarefas na fila
+
+---
