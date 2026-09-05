@@ -12,7 +12,7 @@
 > 
 > | Métrica | Valor |
 > | :--- | :--- |
-> | 👥 **Engenheiros & Sócios** | Gabriel & Muriel |
+> | 👥 **Sócios** | Gabriel & Muriel |
 > | 🎯 **Meta Principal** | Automação Sistêmica & Engenharia de Processos |
 > | 📊 **Progresso Geral** | 35% concluído |
 > | ⏱️ **Carga Total** | 104 horas planejadas (62h Muriel + 42h Gabriel) |
